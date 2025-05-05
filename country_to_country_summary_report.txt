@@ -1,0 +1,1463 @@
+--- Summary Report for Dataset: country_to_country ---
+================================================
+
+[SBM Structure and Model Comparison]
+
+SBM Model Fit (Description Length / Log-Likelihood):
+  Flat Exponential DL: 71160.8858
+  Flat Log-Normal DL: 77913.4790
+  Nested Exponential DL: 72408.1542
+  Nested Log-Normal DL: 79172.5098
+
+ Weighted Modularity
+Flat Exponential: 0.0019
+Flat Log-Normal: -0.1724
+Nested Exponentiallevel: -0.0049
+Nested Exponentiallevel: -0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Exponentiallevel: 0.0000
+Nested Log-Normallevel: -0.0069
+Nested Log-Normallevel: -0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+Nested Log-Normallevel: 0.0000
+
+ Weighted Assortivity
+Flat Exponential: N/A
+Flat Log-Normal: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+
+ Weighted Local Cluster Coef
+Flat Exponential: N/A
+Flat Log-Normal: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Exponentiallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+Nested Log-Normallevel: N/A
+
+--- Block Assignments for Flat Exponential ---
+  Flat Block Model: Flat Exponential
+    Block 12: Croatia, Republic of, Estonia, Republic of, Latvia, Republic of, Lithuania, Republic of, Luxembourg, Romania, Serbia, Republic of, Slovak Republic, Slovenia, Republic of, Ukraine
+    Block 13: Argentina, Chile, Colombia, Ecuador, Guatemala, New Zealand, Peru, Uruguay
+    Block 18: Bangladesh, Egypt, Arab Republic of, Israel, Morocco, Pakistan, Saudi Arabia, South Africa
+    Block 21: Albania, Bosnia and Herzegovina, Iceland, Kosovo, Republic of, Moldova, Republic of, Montenegro, North Macedonia, Republic of
+    Block 31: Bahamas, The, Belize, Central African Republic, Curaçao, Kingdom of the Netherlands, Haiti, Macao Special Administrative Region, People's Republic of China, Suriname
+    Block 34: Bolivia, Brunei Darussalam, Fiji, Republic of, French Polynesia, Lao People's Democratic Republic, Papua New Guinea
+    Block 37: Congo, Democratic Republic of the, Djibouti, Ethiopia, The Federal Democratic Republic of, Kenya, Madagascar, Republic of, Mozambique, Republic of, Namibia, Sudan, Tanzania, United Republic of, Uganda, Zambia
+    Block 48: Armenia, Republic of, Faroe Islands, Greenland, Kyrgyz Republic, Mongolia, San Marino, Republic of, Tajikistan, Republic of, Turkmenistan
+    Block 49: Belgium, China, People's Republic of, France, Germany, India, Italy, Netherlands, The, Spain, Switzerland, Türkiye, Republic of, United Arab Emirates, United Kingdom, United States
+    Block 56: Algeria, Bahrain, Kingdom of, Jordan, Kuwait, Lebanon, Oman, Qatar, Tunisia
+    Block 58: Bhutan, Eritrea, The State of, Holy See, Kiribati, Micronesia, Federated States of, Nauru, Republic of, Samoa, Solomon Islands, Tonga, Vanuatu
+    Block 65: Botswana, Burundi, Comoros, Union of the, Eswatini, Kingdom of, Lesotho, Kingdom of, Malawi, Rwanda, Zimbabwe
+    Block 84: Angola, Burkina Faso, Cameroon, Congo, Republic of, Côte d'Ivoire, Gabon, Ghana, Korea, Democratic People's Republic of, Mauritania, Islamic Republic of, Mauritius, Nigeria, Senegal
+    Block 86: Chad, Gibraltar, Maldives, Marshall Islands, Republic of the, Nepal, New Caledonia, South Sudan, Republic of, West Bank and Gaza, Yemen, Republic of
+    Block 113: Antigua and Barbuda, Aruba, Kingdom of the Netherlands, Barbados, Dominica, Grenada, Sint Maarten, Kingdom of the Netherlands, St. Lucia, St. Vincent and the Grenadines
+    Block 128: Cambodia, Costa Rica, Cuba, Dominican Republic, El Salvador, Guyana, Honduras, Jamaica, Nicaragua, Panama, Trinidad and Tobago, Venezuela, República Bolivariana de
+    Block 133: Bulgaria, Czech Republic, Finland, Hungary, Ireland, Portugal
+    Block 142: American Samoa, Anguilla, United Kingdom-British Overseas Territory, Bermuda, Guam, Montserrat, United Kingdom-British Overseas Territory, Palau, Republic of, St. Kitts and Nevis, Timor-Leste, Democratic Republic of, Tuvalu
+    Block 145: Cyprus, Libya, Malta, Myanmar, Paraguay, Philippines, Sri Lanka
+    Block 160: Australia, Brazil, Canada, Hong Kong Special Administrative Region, People's Republic of China, Indonesia, Japan, Korea, Republic of, Malaysia, Mexico, Singapore, Taiwan Province of China, Thailand, Vietnam
+    Block 184: Austria, Denmark, Greece, Norway, Poland, Republic of, Russian Federation, Sweden
+    Block 199: Cabo Verde, Falkland Islands (Malvinas), Gambia, The, Guinea-Bissau, Niger, Sierra Leone, São Tomé and Príncipe, Democratic Republic of
+    Block 201: Afghanistan, Islamic Republic of, Azerbaijan, Republic of, Belarus, Republic of, Georgia, Iran, Islamic Republic of, Iraq, Kazakhstan, Republic of, Syrian Arab Republic, Uzbekistan, Republic of
+    Block 205: Benin, Equatorial Guinea, Republic of, Guinea, Liberia, Mali, Seychelles, Somalia, Togo
+
+--- Block Assignments for Flat Log-Normal ---
+  Flat Block Model: Flat Log-Normal
+    Block 4: Cuba, El Salvador, Guatemala, Guyana, Haiti, Jamaica, New Caledonia, Nicaragua, Panama, Suriname, Venezuela, República Bolivariana de
+    Block 5: Croatia, Republic of, Estonia, Republic of, Latvia, Republic of, Luxembourg, Serbia, Republic of, Ukraine
+    Block 6: Angola, Benin, Burkina Faso, Cameroon, Congo, Democratic Republic of the, Congo, Republic of, Djibouti, Gabon, Guinea, Liberia, Mali, Mauritania, Islamic Republic of, Namibia, Rwanda, Sierra Leone, Sudan, Syrian Arab Republic, Togo, Yemen, Republic of, Zambia, Zimbabwe
+    Block 8: Cambodia, Ethiopia, The Federal Democratic Republic of, Madagascar, Republic of, Mauritius, Mozambique, Republic of, Myanmar, Tanzania, United Republic of, Uganda
+    Block 22: Belgium, China, People's Republic of, France, Germany, Italy, Netherlands, The, Spain, Türkiye, Republic of, United Kingdom, United States
+    Block 53: Anguilla, United Kingdom-British Overseas Territory, Falkland Islands (Malvinas), Greenland, Holy See, Kiribati, Lesotho, Kingdom of, Montserrat, United Kingdom-British Overseas Territory, Nauru, Republic of, Palau, Republic of, Solomon Islands, Timor-Leste, Democratic Republic of, Tuvalu, Vanuatu
+    Block 64: American Samoa, Bhutan, Burundi, Comoros, Union of the, Eritrea, The State of, Fiji, Republic of, Guam, Korea, Democratic People's Republic of, Marshall Islands, Republic of the, Micronesia, Federated States of, Samoa, São Tomé and Príncipe, Democratic Republic of, Tonga
+    Block 70: Argentina, Chile, Colombia, Ecuador, Peru
+    Block 102: Bulgaria, Czech Republic, Finland, Greece, Hungary, Ireland, Israel, Lithuania, Republic of, Norway, Portugal, Romania, Slovak Republic, Slovenia, Republic of
+    Block 103: Canada, Hong Kong Special Administrative Region, People's Republic of China, India, Indonesia, Japan, Korea, Republic of, Malaysia, Singapore, Thailand, United Arab Emirates, Vietnam
+    Block 108: Australia, Brazil, Egypt, Arab Republic of, Mexico, Morocco, Russian Federation, Saudi Arabia, South Africa, Taiwan Province of China
+    Block 122: Bolivia, Costa Rica, Dominican Republic, Honduras, Paraguay, Trinidad and Tobago
+    Block 134: Bangladesh, New Zealand, Pakistan, Philippines, Qatar, Sri Lanka
+    Block 135: Afghanistan, Islamic Republic of, Faroe Islands, Gibraltar, Kyrgyz Republic, Montenegro, San Marino, Republic of, Turkmenistan
+    Block 142: Albania, Armenia, Republic of, Azerbaijan, Republic of, Belarus, Republic of, Bosnia and Herzegovina, Georgia, Iceland, Iran, Islamic Republic of, Kazakhstan, Republic of, Kosovo, Republic of, Moldova, Republic of, North Macedonia, Republic of, Uzbekistan, Republic of
+    Block 143: Botswana, Brunei Darussalam, Equatorial Guinea, Republic of, Lao People's Democratic Republic, Malawi, Maldives, Mongolia, Nepal, Papua New Guinea, Seychelles, West Bank and Gaza
+    Block 154: Antigua and Barbuda, Aruba, Kingdom of the Netherlands, Bahamas, The, Barbados, Belize, Bermuda, Curaçao, Kingdom of the Netherlands, Dominica, Grenada, Sint Maarten, Kingdom of the Netherlands, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines
+    Block 156: Austria, Denmark, Poland, Republic of, Sweden, Switzerland
+    Block 175: Algeria, Bahrain, Kingdom of, Cyprus, Côte d'Ivoire, Ghana, Iraq, Jordan, Kenya, Kuwait, Lebanon, Libya, Malta, Nigeria, Oman, Senegal, Tunisia, Uruguay
+    Block 191: Cabo Verde, Central African Republic, Chad, Eswatini, Kingdom of, French Polynesia, Gambia, The, Guinea-Bissau, Macao Special Administrative Region, People's Republic of China, Niger, Somalia, South Sudan, Republic of, Tajikistan, Republic of
+
+--- Block Assignments for Flat PP (Unweighted) ---
+  Flat Block Model: Flat PP (Unweighted)
+    Block 7: Anguilla, United Kingdom-British Overseas Territory, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Azerbaijan, Republic of, Bahamas, The, Barbados, Benin, Bhutan, Bolivia, Botswana, Brunei Darussalam, Burkina Faso, Burundi, Cabo Verde, Cambodia, Central African Republic, Chad, Comoros, Union of the, Curaçao, Kingdom of the Netherlands, Djibouti, Dominican Republic, Equatorial Guinea, Republic of, Eritrea, The State of, Eswatini, Kingdom of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, French Polynesia, Gambia, The, Georgia, Gibraltar, Greenland, Grenada, Guam, Guatemala, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Iceland, Iran, Islamic Republic of, Kiribati, Kyrgyz Republic, Lao People's Democratic Republic, Lesotho, Kingdom of, Liberia, Libya, Macao Special Administrative Region, People's Republic of China, Malawi, Maldives, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Nauru, Republic of, Nepal, New Caledonia, Nicaragua, Niger, Palau, Republic of, Panama, Papua New Guinea, Rwanda, Samoa, San Marino, Republic of, Seychelles, Sint Maarten, Kingdom of the Netherlands, South Sudan, Republic of, St. Lucia, Sudan, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Tajikistan, Republic of, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Turkmenistan, Tuvalu, Uganda, Uruguay, Uzbekistan, Republic of, Vanuatu, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Block 63: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Antigua and Barbuda, Argentina, Bahrain, Kingdom of, Bangladesh, Belarus, Republic of, Belize, Bermuda, Bosnia and Herzegovina, Bulgaria, Cameroon, Colombia, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Cyprus, Czech Republic, Dominica, Ecuador, Egypt, Arab Republic of, El Salvador, Estonia, Republic of, Ethiopia, The Federal Democratic Republic of, Gabon, Ghana, Guinea, Hungary, Iraq, Israel, Jamaica, Jordan, Kazakhstan, Republic of, Korea, Democratic People's Republic of, Kosovo, Republic of, Kuwait, Latvia, Republic of, Lebanon, Luxembourg, Madagascar, Republic of, Malaysia, Mali, Malta, Mauritius, Mozambique, Republic of, Myanmar, Namibia, Nigeria, North Macedonia, Republic of, Pakistan, Paraguay, Peru, Philippines, Portugal, Qatar, Russian Federation, Senegal, Serbia, Republic of, Sierra Leone, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, Sri Lanka, St. Kitts and Nevis, St. Vincent and the Grenadines, Suriname, Taiwan Province of China, Tanzania, United Republic of, Venezuela, República Bolivariana de, Vietnam
+    Block 185: Australia, Austria, Belgium, Brazil, Canada, Chile, China, People's Republic of, Côte d'Ivoire, Denmark, Finland, France, Germany, Greece, Hong Kong Special Administrative Region, People's Republic of China, India, Indonesia, Ireland, Italy, Japan, Kenya, Korea, Republic of, Lithuania, Republic of, Mexico, Morocco, Netherlands, The, New Zealand, Norway, Oman, Poland, Republic of, Romania, Saudi Arabia, Singapore, South Africa, Spain, Sweden, Switzerland, Thailand, Tunisia, Türkiye, Republic of, Ukraine, United Arab Emirates, United Kingdom, United States
+
+--- Block Assignments for Nested Exponential ---
+  Nested Block Model:
+    Level 0:
+      Block 5: Angola, Botswana, Brunei Darussalam, Cambodia, Cameroon, Congo, Democratic Republic of the, Congo, Republic of, Djibouti, Equatorial Guinea, Republic of, Ethiopia, The Federal Democratic Republic of, Fiji, Republic of, Gabon, Ghana, Kenya, Korea, Democratic People's Republic of, Lao People's Democratic Republic, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mozambique, Republic of, Namibia, New Caledonia, Papua New Guinea, Rwanda, Senegal, Somalia, Tanzania, United Republic of, Togo, Uganda, Yemen, Republic of, Zambia, Zimbabwe
+      Block 16: Benin, Burkina Faso, Burundi, Cabo Verde, Chad, Comoros, Union of the, Eswatini, Kingdom of, Falkland Islands (Malvinas), Faroe Islands, French Polynesia, Gambia, The, Gibraltar, Greenland, Guinea, Guinea-Bissau, Lesotho, Kingdom of, Liberia, Maldives, Mali, Nepal, Niger, Seychelles, Sierra Leone, West Bank and Gaza
+      Block 28: Bahamas, The, Bolivia, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Guyana, Honduras, Jamaica, Nicaragua, Panama, Trinidad and Tobago, Venezuela, República Bolivariana de
+      Block 37: Algeria, Bahrain, Kingdom of, Belarus, Republic of, Bulgaria, Cyprus, Czech Republic, Estonia, Republic of, Georgia, Hungary, Iran, Islamic Republic of, Iraq, Jordan, Kazakhstan, Republic of, Kuwait, Latvia, Republic of, Lebanon, Lithuania, Republic of, Luxembourg, Oman, Qatar, Romania, Serbia, Republic of, Slovak Republic, Slovenia, Republic of, Tunisia, Ukraine
+      Block 43: Australia, Belgium, Brazil, Canada, China, People's Republic of, France, Germany, Hong Kong Special Administrative Region, People's Republic of China, India, Indonesia, Italy, Japan, Korea, Republic of, Malaysia, Mexico, Netherlands, The, Poland, Republic of, Russian Federation, Singapore, Spain, Switzerland, Taiwan Province of China, Thailand, Türkiye, Republic of, United Arab Emirates, United Kingdom, United States, Vietnam
+      Block 119: Afghanistan, Islamic Republic of, Albania, Armenia, Republic of, Azerbaijan, Republic of, Bosnia and Herzegovina, Kosovo, Republic of, Kyrgyz Republic, Moldova, Republic of, Mongolia, Montenegro, North Macedonia, Republic of, San Marino, Republic of, Tajikistan, Republic of, Turkmenistan, Uzbekistan, Republic of
+      Block 145: American Samoa, Bermuda, Bhutan, Central African Republic, Eritrea, The State of, Guam, Holy See, Kiribati, Micronesia, Federated States of, Nauru, Republic of, Palau, Republic of, Samoa, Solomon Islands, South Sudan, Republic of, São Tomé and Príncipe, Democratic Republic of, Timor-Leste, Democratic Republic of, Tonga, Tuvalu, Vanuatu
+      Block 159: Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Aruba, Kingdom of the Netherlands, Barbados, Belize, Curaçao, Kingdom of the Netherlands, Dominica, Grenada, Haiti, Montserrat, United Kingdom-British Overseas Territory, Sint Maarten, Kingdom of the Netherlands, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Suriname
+      Block 165: Chile, Colombia, Ecuador, Iceland, Libya, Malta, Mauritius, Myanmar, New Zealand, Paraguay, Peru, Philippines, Sri Lanka, Sudan, Syrian Arab Republic, Uruguay
+      Block 204: Argentina, Austria, Bangladesh, Croatia, Republic of, Côte d'Ivoire, Denmark, Egypt, Arab Republic of, Finland, Greece, Ireland, Israel, Morocco, Nigeria, Norway, Pakistan, Portugal, Saudi Arabia, South Africa, Sweden
+    Level 1:
+      Block 4: Angola, Azerbaijan, Republic of, Belarus, Republic of, Bermuda, Botswana, Bulgaria, Cabo Verde, Central African Republic, Congo, Democratic Republic of the, Costa Rica, Croatia, Republic of, Cuba, Denmark, Dominican Republic, Egypt, Arab Republic of, Gabon, Gibraltar, Guam, Guyana, Holy See, Hungary, Iraq, Jamaica, Jordan, Kenya, Korea, Republic of, Kosovo, Republic of, Lebanon, Luxembourg, Maldives, Mali, Malta, Montenegro, Panama, Papua New Guinea, Philippines, Qatar, Saudi Arabia, Sierra Leone, Sudan, Syrian Arab Republic, Turkmenistan, Türkiye, Republic of, Uganda, Ukraine
+      Block 5: Afghanistan, Islamic Republic of, American Samoa, Argentina, Armenia, Republic of, Bhutan, Congo, Republic of, Eritrea, The State of, Finland, Iceland, Latvia, Republic of, Madagascar, Republic of, Marshall Islands, Republic of the, Moldova, Republic of, Morocco, Myanmar, Nauru, Republic of, Netherlands, The, Pakistan, Paraguay, Romania, Russian Federation, San Marino, Republic of, South Africa, St. Lucia, Suriname, Thailand, United Kingdom, West Bank and Gaza
+      Block 6: Albania, Anguilla, United Kingdom-British Overseas Territory, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Belgium, Benin, Bosnia and Herzegovina, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, Cameroon, Chad, China, People's Republic of, Curaçao, Kingdom of the Netherlands, Djibouti, El Salvador, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, France, Gambia, The, Georgia, Ghana, Greece, Greenland, Grenada, Guinea-Bissau, Haiti, Honduras, Indonesia, Iran, Islamic Republic of, Ireland, Israel, Italy, Korea, Democratic People's Republic of, Kuwait, Lao People's Democratic Republic, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Mexico, Mongolia, Nepal, New Caledonia, Nicaragua, Niger, North Macedonia, Republic of, Oman, Peru, Portugal, Samoa, Seychelles, Singapore, Slovak Republic, Somalia, St. Kitts and Nevis, St. Vincent and the Grenadines, Sweden, Taiwan Province of China, Tanzania, United Republic of, Timor-Leste, Democratic Republic of, Tonga, Tuvalu, Uruguay, Uzbekistan, Republic of, Vanuatu, Yemen, Republic of, Zambia
+      Block 7: Algeria, Antigua and Barbuda, Aruba, Kingdom of the Netherlands, Australia, Austria, Barbados, Belize, Bolivia, Brazil, Canada, Chile, Colombia, Comoros, Union of the, Cyprus, Czech Republic, Côte d'Ivoire, Dominica, Ecuador, Equatorial Guinea, Republic of, Estonia, Republic of, French Polynesia, Germany, Guatemala, Guinea, Hong Kong Special Administrative Region, People's Republic of China, India, Japan, Kazakhstan, Republic of, Kiribati, Kyrgyz Republic, Macao Special Administrative Region, People's Republic of China, Malawi, Malaysia, Mauritania, Islamic Republic of, Mauritius, Micronesia, Federated States of, Montserrat, United Kingdom-British Overseas Territory, Mozambique, Republic of, Namibia, New Zealand, Nigeria, Norway, Palau, Republic of, Poland, Republic of, Rwanda, Senegal, Serbia, Republic of, Sint Maarten, Kingdom of the Netherlands, Slovenia, Republic of, Solomon Islands, South Sudan, Republic of, Spain, Sri Lanka, Switzerland, São Tomé and Príncipe, Democratic Republic of, Tajikistan, Republic of, Togo, Trinidad and Tobago, Tunisia, United Arab Emirates, United States, Venezuela, República Bolivariana de, Vietnam, Zimbabwe
+    Level 2:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 3:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 4:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 5:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 6:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 7:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 8:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+
+--- Block Assignments for Nested Log-Normal ---
+  Nested Block Model:
+    Level 0:
+      Block 15: Belgium, China, People's Republic of, France, Germany, Italy, Netherlands, The, Spain, Türkiye, Republic of, United Kingdom, United States
+      Block 50: Australia, Bulgaria, Egypt, Arab Republic of, Greece, Israel, Mexico, Morocco, Norway, Portugal, Romania, Russian Federation, Saudi Arabia, South Africa
+      Block 68: Croatia, Republic of, Estonia, Republic of, Latvia, Republic of, Lithuania, Republic of, Luxembourg, Serbia, Republic of, Slovak Republic, Slovenia, Republic of, Ukraine
+      Block 98: Austria, Czech Republic, Denmark, Finland, Hungary, Ireland, Poland, Republic of, Sweden
+      Block 119: American Samoa, Anguilla, United Kingdom-British Overseas Territory, Bhutan, Eritrea, The State of, Falkland Islands (Malvinas), Faroe Islands, Greenland, Holy See, Kiribati, Korea, Democratic People's Republic of, Lesotho, Kingdom of, Micronesia, Federated States of, Montserrat, United Kingdom-British Overseas Territory, Nauru, Republic of, Palau, Republic of, Samoa, Solomon Islands, São Tomé and Príncipe, Democratic Republic of, Timor-Leste, Democratic Republic of, Tonga, Tuvalu, Vanuatu
+      Block 123: Botswana, Brunei Darussalam, Burundi, Cabo Verde, Central African Republic, Chad, Comoros, Union of the, Djibouti, Equatorial Guinea, Republic of, Eswatini, Kingdom of, French Polynesia, Gambia, The, Gibraltar, Guinea-Bissau, Macao Special Administrative Region, People's Republic of China, Malawi, Marshall Islands, Republic of the, Niger, San Marino, Republic of, Sierra Leone, Somalia, South Sudan, Republic of, Tajikistan, Republic of, West Bank and Gaza, Yemen, Republic of
+      Block 129: Afghanistan, Islamic Republic of, Bahamas, The, Barbados, Cuba, El Salvador, Fiji, Republic of, Guyana, Haiti, Jamaica, Kosovo, Republic of, Kyrgyz Republic, Lao People's Democratic Republic, Maldives, Mongolia, Montenegro, Nepal, New Caledonia, Nicaragua, Papua New Guinea, Seychelles, Suriname, Turkmenistan, Venezuela, República Bolivariana de
+      Block 137: Argentina, Bangladesh, Chile, Colombia, Jordan, New Zealand, Oman, Pakistan, Peru, Philippines, Qatar, Sri Lanka, Tunisia, Uruguay
+      Block 148: Angola, Benin, Burkina Faso, Cambodia, Congo, Democratic Republic of the, Congo, Republic of, Gabon, Guinea, Liberia, Madagascar, Republic of, Mali, Mauritania, Islamic Republic of, Mauritius, Mozambique, Republic of, Namibia, Rwanda, Sudan, Syrian Arab Republic, Togo, Uganda, Zambia, Zimbabwe
+      Block 150: Antigua and Barbuda, Aruba, Kingdom of the Netherlands, Belize, Bermuda, Curaçao, Kingdom of the Netherlands, Dominica, Grenada, Guam, Sint Maarten, Kingdom of the Netherlands, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines
+      Block 158: Albania, Armenia, Republic of, Azerbaijan, Republic of, Belarus, Republic of, Bolivia, Bosnia and Herzegovina, Costa Rica, Dominican Republic, Ecuador, Guatemala, Honduras, Iceland, Iran, Islamic Republic of, Moldova, Republic of, Myanmar, North Macedonia, Republic of, Panama, Paraguay, Trinidad and Tobago, Uzbekistan, Republic of
+      Block 161: Algeria, Bahrain, Kingdom of, Cameroon, Cyprus, Côte d'Ivoire, Ethiopia, The Federal Democratic Republic of, Georgia, Ghana, Iraq, Kazakhstan, Republic of, Kenya, Kuwait, Lebanon, Libya, Malta, Nigeria, Senegal, Tanzania, United Republic of
+      Block 190: Brazil, Canada, Hong Kong Special Administrative Region, People's Republic of China, India, Indonesia, Japan, Korea, Republic of, Malaysia, Singapore, Switzerland, Taiwan Province of China, Thailand, United Arab Emirates, Vietnam
+    Level 1:
+      Block 0: Algeria, Angola, Antigua and Barbuda, Argentina, Australia, Bahamas, The, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Chad, Comoros, Union of the, Congo, Democratic Republic of the, Cuba, Cyprus, Czech Republic, Côte d'Ivoire, Dominica, Ecuador, Estonia, Republic of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Finland, French Polynesia, Gabon, Guam, Guyana, Ireland, Japan, Kazakhstan, Republic of, Korea, Democratic People's Republic of, Kosovo, Republic of, Lao People's Democratic Republic, Madagascar, Republic of, Malta, Mauritania, Islamic Republic of, Mauritius, Mexico, Mongolia, Netherlands, The, Norway, Poland, Republic of, Rwanda, Serbia, Republic of, Sierra Leone, Somalia, South Africa, South Sudan, Republic of, Sweden, Switzerland, Tajikistan, Republic of, Tonga, Tunisia, Türkiye, Republic of, Uganda, United Arab Emirates, United Kingdom, Vanuatu, Zimbabwe
+      Block 5: Afghanistan, Islamic Republic of, Albania, Anguilla, United Kingdom-British Overseas Territory, Belize, Brazil, China, People's Republic of, Costa Rica, Egypt, Arab Republic of, Georgia, Ghana, Honduras, Kenya, Latvia, Republic of, Lebanon, Maldives, Moldova, Republic of, Namibia, New Zealand, St. Kitts and Nevis, St. Lucia, Sudan, Tanzania, United Republic of, Venezuela, República Bolivariana de, Zambia
+      Block 9: Armenia, Republic of, Azerbaijan, Republic of, Bangladesh, Belarus, Republic of, Bolivia, Burundi, Cabo Verde, Cameroon, Colombia, Denmark, Faroe Islands, Guinea, Guinea-Bissau, Holy See, Hungary, Indonesia, Iran, Islamic Republic of, Iraq, Israel, Jamaica, Kiribati, Kyrgyz Republic, Liberia, Micronesia, Federated States of, Montserrat, United Kingdom-British Overseas Territory, Morocco, Myanmar, Nicaragua, Niger, Oman, Panama, Portugal, Qatar, Russian Federation, San Marino, Republic of, Sint Maarten, Kingdom of the Netherlands, Slovenia, Republic of, St. Vincent and the Grenadines, Syrian Arab Republic, Tuvalu, Ukraine, United States, Vietnam, Yemen, Republic of
+      Block 10: American Samoa, Aruba, Kingdom of the Netherlands, Austria, Bahrain, Kingdom of, Barbados, Bermuda, Botswana, Brunei Darussalam, Bulgaria, Burkina Faso, Cambodia, Canada, Central African Republic, Chile, Congo, Republic of, Croatia, Republic of, Curaçao, Kingdom of the Netherlands, Djibouti, Dominican Republic, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Eswatini, Kingdom of, Fiji, Republic of, France, Gambia, The, Germany, Gibraltar, Greece, Greenland, Grenada, Guatemala, Haiti, Hong Kong Special Administrative Region, People's Republic of China, Iceland, India, Italy, Jordan, Korea, Republic of, Kuwait, Lesotho, Kingdom of, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Malawi, Malaysia, Mali, Marshall Islands, Republic of the, Montenegro, Mozambique, Republic of, Nauru, Republic of, Nepal, New Caledonia, Nigeria, North Macedonia, Republic of, Pakistan, Palau, Republic of, Papua New Guinea, Paraguay, Peru, Philippines, Romania, Samoa, Saudi Arabia, Senegal, Seychelles, Singapore, Slovak Republic, Solomon Islands, Spain, Sri Lanka, Suriname, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Thailand, Timor-Leste, Democratic Republic of, Togo, Trinidad and Tobago, Turkmenistan, Uruguay, Uzbekistan, Republic of, West Bank and Gaza
+    Level 2:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 3:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 4:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 5:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 6:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 7:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+    Level 8:
+      Block 0: Afghanistan, Islamic Republic of, Albania, Algeria, American Samoa, Angola, Anguilla, United Kingdom-British Overseas Territory, Antigua and Barbuda, Argentina, Armenia, Republic of, Aruba, Kingdom of the Netherlands, Australia, Austria, Azerbaijan, Republic of, Bahamas, The, Bahrain, Kingdom of, Bangladesh, Barbados, Belarus, Republic of, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Canada, Central African Republic, Chad, Chile, China, People's Republic of, Colombia, Comoros, Union of the, Congo, Democratic Republic of the, Congo, Republic of, Costa Rica, Croatia, Republic of, Cuba, Curaçao, Kingdom of the Netherlands, Cyprus, Czech Republic, Côte d'Ivoire, Denmark, Djibouti, Dominica, Dominican Republic, Ecuador, Egypt, Arab Republic of, El Salvador, Equatorial Guinea, Republic of, Eritrea, The State of, Estonia, Republic of, Eswatini, Kingdom of, Ethiopia, The Federal Democratic Republic of, Falkland Islands (Malvinas), Faroe Islands, Fiji, Republic of, Finland, France, French Polynesia, Gabon, Gambia, The, Georgia, Germany, Ghana, Gibraltar, Greece, Greenland, Grenada, Guam, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Holy See, Honduras, Hong Kong Special Administrative Region, People's Republic of China, Hungary, Iceland, India, Indonesia, Iran, Islamic Republic of, Iraq, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Republic of, Kenya, Kiribati, Korea, Democratic People's Republic of, Korea, Republic of, Kosovo, Republic of, Kuwait, Kyrgyz Republic, Lao People's Democratic Republic, Latvia, Republic of, Lebanon, Lesotho, Kingdom of, Liberia, Libya, Lithuania, Republic of, Luxembourg, Macao Special Administrative Region, People's Republic of China, Madagascar, Republic of, Malawi, Malaysia, Maldives, Mali, Malta, Marshall Islands, Republic of the, Mauritania, Islamic Republic of, Mauritius, Mexico, Micronesia, Federated States of, Moldova, Republic of, Mongolia, Montenegro, Montserrat, United Kingdom-British Overseas Territory, Morocco, Mozambique, Republic of, Myanmar, Namibia, Nauru, Republic of, Nepal, Netherlands, The, New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, North Macedonia, Republic of, Norway, Oman, Pakistan, Palau, Republic of, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Republic of, Portugal, Qatar, Romania, Russian Federation, Rwanda, Samoa, San Marino, Republic of, Saudi Arabia, Senegal, Serbia, Republic of, Seychelles, Sierra Leone, Singapore, Sint Maarten, Kingdom of the Netherlands, Slovak Republic, Slovenia, Republic of, Solomon Islands, Somalia, South Africa, South Sudan, Republic of, Spain, Sri Lanka, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sudan, Suriname, Sweden, Switzerland, Syrian Arab Republic, São Tomé and Príncipe, Democratic Republic of, Taiwan Province of China, Tajikistan, Republic of, Tanzania, United Republic of, Thailand, Timor-Leste, Democratic Republic of, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkmenistan, Tuvalu, Türkiye, Republic of, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Republic of, Vanuatu, Venezuela, República Bolivariana de, Vietnam, West Bank and Gaza, Yemen, Republic of, Zambia, Zimbabwe
+
+Best Fitting Model: flat_pp (DL: 25091.0248)
+
+Flat Exponential SBM Blocks Found: 206 (Non-Empty: 24)
+Flat Log-Normal SBM Blocks Found: 192 (Non-Empty: 20)
+Flat PP (Unweighted) SBM Blocks Found: 186 (Non-Empty: 3)
+
+Nested SBM Block Counts by Level and Model:
+  Nested Exponential:
+    - Level 0: 205 blocks (Non-Empty: 10)
+    - Level 1: 8 blocks (Non-Empty: 4)
+    - Level 2: 1 blocks (Non-Empty: 1)
+    - Level 3: 1 blocks (Non-Empty: 1)
+    - Level 4: 1 blocks (Non-Empty: 1)
+    - Level 5: 1 blocks (Non-Empty: 1)
+    - Level 6: 1 blocks (Non-Empty: 1)
+    - Level 7: 1 blocks (Non-Empty: 1)
+    - Level 8: 1 blocks (Non-Empty: 1)
+  Nested Log-Normal:
+    - Level 0: 191 blocks (Non-Empty: 13)
+    - Level 1: 11 blocks (Non-Empty: 4)
+    - Level 2: 1 blocks (Non-Empty: 1)
+    - Level 3: 1 blocks (Non-Empty: 1)
+    - Level 4: 1 blocks (Non-Empty: 1)
+    - Level 5: 1 blocks (Non-Empty: 1)
+    - Level 6: 1 blocks (Non-Empty: 1)
+    - Level 7: 1 blocks (Non-Empty: 1)
+    - Level 8: 1 blocks (Non-Empty: 1)
+
+Refer to the hierarchical visualizations (circular plot and dendrogram) for a visual representation of this structure.
+
+[Global Network Metrics]
+  Density: 0.585418
+  Global Clustering Coefficient: 3.935935
+  Global  Unweighted Clustering Coefficient: 0.825489
+  Reciprocity: 0.786643
+  Weighted Reciprocity: 0.725315
+  Degree Assortativity: -0.005949
+  Weighted Assortativity: -0.008567
+  Avg Weighted Shortest Path: N/A
+
+[Weighted Block Metrics (for Best Model)]
+  Weighted block metrics not available for the best model (Flat Pp).
+
+[Block Statistics by Model]
+
+Flat Exponential:
+  Blocks Found: 206
+  Block Sizes (Non-Empty): Min=6.00, Max=13.00, Avg=8.75, Std Dev=2.11
+  Density (Non-Empty Blocks): Min=0.0889, Max=1.0000, Avg=0.6995, Std Dev=0.3231
+  Avg Local Clustering (Non-Empty Blocks): Min=0.0001, Max=0.5914, Avg=0.1357, Std Dev=0.1552
+  Reciprocity (Non-Empty Blocks): All NaN or no data.
+  Assortativity (Non-Empty Blocks): Min=-0.5190, Max=-0.0000, Avg=-0.1741, Std Dev=0.1350
+
+Flat Lognormal:
+  Blocks Found: 192
+  Block Sizes (Non-Empty): Min=5.00, Max=21.00, Avg=10.50, Std Dev=4.16
+  Density (Non-Empty Blocks): Min=0.1090, Max=1.0000, Avg=0.7146, Std Dev=0.3423
+  Avg Local Clustering (Non-Empty Blocks): Min=0.0002, Max=0.4705, Avg=0.1489, Std Dev=0.1463
+  Reciprocity (Non-Empty Blocks): All NaN or no data.
+  Assortativity (Non-Empty Blocks): Min=-0.6247, Max=0.0877, Avg=-0.1297, Std Dev=0.1884
+
+Flat Pp:
+  Blocks Found: 186
+  Block Sizes (Non-Empty): Min=43.00, Max=91.00, Avg=70.00, Std Dev=24.56
+  Density (Non-Empty Blocks): Min=0.1789, Max=0.9994, Avg=0.6304, Std Dev=0.4165
+  Avg Local Clustering (Non-Empty Blocks): Min=0.4933, Max=1.5089, Avg=0.9907, Std Dev=0.5081
+  Reciprocity (Non-Empty Blocks): All NaN or no data.
+  Assortativity (Non-Empty Blocks): Min=-0.0317, Max=-0.0138, Avg=-0.0248, Std Dev=0.0097
+
+[Notable Blocks (Examples - Top 3 by Density and Avg Clustering per Model)]
+
+Flat Exponential:
+  Highest Density Blocks:
+    - Block 12 (Size: 10): Density 1.0000
+    - Block 49 (Size: 13): Density 1.0000
+    - Block 184 (Size: 7): Density 1.0000
+    - Block 133 (Size: 6): Density 1.0000
+    - Block 13 (Size: 8): Density 1.0000
+    - Block 56 (Size: 8): Density 1.0000
+    - Block 160 (Size: 13): Density 0.9231
+    - Block 21 (Size: 7): Density 0.9048
+    - Block 84 (Size: 12): Density 0.9015
+    - Block 37 (Size: 11): Density 0.9000
+    - Block 113 (Size: 8): Density 0.8929
+    - Block 145 (Size: 7): Density 0.8810
+    - Block 18 (Size: 7): Density 0.8571
+    - Block 128 (Size: 12): Density 0.8561
+    - Block 201 (Size: 9): Density 0.8056
+    - Block 65 (Size: 8): Density 0.5893
+    - Block 205 (Size: 8): Density 0.5000
+    - Block 48 (Size: 8): Density 0.4821
+    - Block 31 (Size: 7): Density 0.3571
+    - Block 34 (Size: 6): Density 0.2667
+    - Block 199 (Size: 7): Density 0.2619
+    - Block 142 (Size: 9): Density 0.2083
+    - Block 86 (Size: 9): Density 0.1111
+    - Block 58 (Size: 10): Density 0.0889
+  Highest Avg Clustering Blocks:
+    - Block 49 (Size: 13): Avg Local Clustering 0.5914
+    - Block 160 (Size: 13): Avg Local Clustering 0.5526
+    - Block 12 (Size: 10): Avg Local Clustering 0.2418
+    - Block 184 (Size: 7): Avg Local Clustering 0.2240
+    - Block 13 (Size: 8): Avg Local Clustering 0.1883
+    - Block 128 (Size: 12): Avg Local Clustering 0.1861
+    - Block 201 (Size: 9): Avg Local Clustering 0.1669
+    - Block 133 (Size: 6): Avg Local Clustering 0.1637
+    - Block 84 (Size: 12): Avg Local Clustering 0.1561
+    - Block 37 (Size: 11): Avg Local Clustering 0.1500
+    - Block 18 (Size: 7): Avg Local Clustering 0.1435
+    - Block 56 (Size: 8): Avg Local Clustering 0.1387
+    - Block 21 (Size: 7): Avg Local Clustering 0.1040
+    - Block 145 (Size: 7): Avg Local Clustering 0.0569
+    - Block 65 (Size: 8): Avg Local Clustering 0.0483
+    - Block 205 (Size: 8): Avg Local Clustering 0.0363
+    - Block 48 (Size: 8): Avg Local Clustering 0.0342
+    - Block 113 (Size: 8): Avg Local Clustering 0.0332
+    - Block 34 (Size: 6): Avg Local Clustering 0.0190
+    - Block 142 (Size: 9): Avg Local Clustering 0.0161
+    - Block 58 (Size: 10): Avg Local Clustering 0.0046
+    - Block 86 (Size: 9): Avg Local Clustering 0.0010
+    - Block 31 (Size: 7): Avg Local Clustering 0.0009
+    - Block 199 (Size: 7): Avg Local Clustering 0.0001
+
+Flat Lognormal:
+  Highest Density Blocks:
+    - Block 134 (Size: 6): Density 1.0000
+    - Block 156 (Size: 5): Density 1.0000
+    - Block 22 (Size: 10): Density 1.0000
+    - Block 70 (Size: 5): Density 1.0000
+    - Block 102 (Size: 13): Density 1.0000
+    - Block 103 (Size: 11): Density 1.0000
+    - Block 5 (Size: 6): Density 1.0000
+    - Block 175 (Size: 17): Density 0.9301
+    - Block 122 (Size: 6): Density 0.9000
+    - Block 108 (Size: 9): Density 0.8889
+    - Block 142 (Size: 13): Density 0.8782
+    - Block 154 (Size: 13): Density 0.7821
+    - Block 4 (Size: 11): Density 0.7000
+    - Block 8 (Size: 8): Density 0.6786
+    - Block 6 (Size: 21): Density 0.6690
+    - Block 135 (Size: 7): Density 0.3571
+    - Block 143 (Size: 11): Density 0.1545
+    - Block 191 (Size: 12): Density 0.1364
+    - Block 64 (Size: 13): Density 0.1090
+    - Block 53 (Size: 13): Density 0.1090
+  Highest Avg Clustering Blocks:
+    - Block 22 (Size: 10): Avg Local Clustering 0.4705
+    - Block 103 (Size: 11): Avg Local Clustering 0.4514
+    - Block 102 (Size: 13): Avg Local Clustering 0.3698
+    - Block 108 (Size: 9): Avg Local Clustering 0.2706
+    - Block 142 (Size: 13): Avg Local Clustering 0.2169
+    - Block 175 (Size: 17): Avg Local Clustering 0.2146
+    - Block 6 (Size: 21): Avg Local Clustering 0.1739
+    - Block 156 (Size: 5): Avg Local Clustering 0.1690
+    - Block 70 (Size: 5): Avg Local Clustering 0.1398
+    - Block 134 (Size: 6): Avg Local Clustering 0.1124
+    - Block 5 (Size: 6): Avg Local Clustering 0.1033
+    - Block 4 (Size: 11): Avg Local Clustering 0.1027
+    - Block 122 (Size: 6): Avg Local Clustering 0.0692
+    - Block 154 (Size: 13): Avg Local Clustering 0.0583
+    - Block 8 (Size: 8): Avg Local Clustering 0.0400
+    - Block 53 (Size: 13): Avg Local Clustering 0.0064
+    - Block 64 (Size: 13): Avg Local Clustering 0.0042
+    - Block 135 (Size: 7): Avg Local Clustering 0.0041
+    - Block 143 (Size: 11): Avg Local Clustering 0.0009
+    - Block 191 (Size: 12): Avg Local Clustering 0.0002
+
+Flat Pp:
+  Highest Density Blocks:
+    - Block 185 (Size: 43): Density 0.9994
+    - Block 63 (Size: 76): Density 0.7130
+    - Block 7 (Size: 91): Density 0.1789
+  Highest Avg Clustering Blocks:
+    - Block 185 (Size: 43): Avg Local Clustering 1.5089
+    - Block 63 (Size: 76): Avg Local Clustering 0.9698
+    - Block 7 (Size: 91): Avg Local Clustering 0.4933
+
+[Top Central Nodes within Blocks (PageRank - Top 3 per Block per Model)]
+
+Flat Exponential Blocks:
+  Block 12:
+    - Slovak Republic (PR: 0.1179)
+    - Slovenia, Republic of (PR: 0.1130)
+    - Romania (PR: 0.1117)
+    - Lithuania, Republic of (PR: 0.1081)
+    - Ukraine (PR: 0.1005)
+    - Serbia, Republic of (PR: 0.0999)
+    - Croatia, Republic of (PR: 0.0975)
+    - Latvia, Republic of (PR: 0.0932)
+    - Estonia, Republic of (PR: 0.0876)
+    - Luxembourg (PR: 0.0705)
+  Block 13:
+    - Argentina (PR: 0.1600)
+    - Chile (PR: 0.1492)
+    - Colombia (PR: 0.1396)
+    - Peru (PR: 0.1370)
+    - Ecuador (PR: 0.1360)
+    - Uruguay (PR: 0.1015)
+    - Guatemala (PR: 0.0924)
+    - New Zealand (PR: 0.0842)
+  Block 18:
+    - Saudi Arabia (PR: 0.1843)
+    - Egypt, Arab Republic of (PR: 0.1715)
+    - South Africa (PR: 0.1599)
+    - Morocco (PR: 0.1444)
+    - Pakistan (PR: 0.1347)
+    - Bangladesh (PR: 0.1131)
+    - Israel (PR: 0.0922)
+  Block 21:
+    - North Macedonia, Republic of (PR: 0.2180)
+    - Albania (PR: 0.1901)
+    - Bosnia and Herzegovina (PR: 0.1851)
+    - Kosovo, Republic of (PR: 0.1716)
+    - Montenegro (PR: 0.1433)
+    - Moldova, Republic of (PR: 0.0672)
+    - Iceland (PR: 0.0246)
+  Block 31:
+    - Suriname (PR: 0.3984)
+    - Belize (PR: 0.2855)
+    - Curaçao, Kingdom of the Netherlands (PR: 0.1678)
+    - Haiti (PR: 0.0658)
+    - Bahamas, The (PR: 0.0337)
+    - Central African Republic (PR: 0.0244)
+    - Macao Special Administrative Region, People's Republic of China (PR: 0.0244)
+  Block 34:
+    - Papua New Guinea (PR: 0.4298)
+    - Fiji, Republic of (PR: 0.4084)
+    - Brunei Darussalam (PR: 0.0646)
+    - Lao People's Democratic Republic (PR: 0.0466)
+    - Bolivia (PR: 0.0255)
+    - French Polynesia (PR: 0.0250)
+  Block 37:
+    - Kenya (PR: 0.1508)
+    - Zambia (PR: 0.1335)
+    - Tanzania, United Republic of (PR: 0.1300)
+    - Congo, Democratic Republic of the (PR: 0.1256)
+    - Uganda (PR: 0.1127)
+    - Ethiopia, The Federal Democratic Republic of (PR: 0.0806)
+    - Namibia (PR: 0.0741)
+    - Mozambique, Republic of (PR: 0.0603)
+    - Djibouti (PR: 0.0599)
+    - Madagascar, Republic of (PR: 0.0463)
+    - Sudan (PR: 0.0263)
+  Block 48:
+    - Greenland (PR: 0.2679)
+    - Faroe Islands (PR: 0.2601)
+    - Armenia, Republic of (PR: 0.1351)
+    - Kyrgyz Republic (PR: 0.1080)
+    - Turkmenistan (PR: 0.1064)
+    - San Marino, Republic of (PR: 0.0474)
+    - Mongolia (PR: 0.0448)
+    - Tajikistan, Republic of (PR: 0.0304)
+  Block 49:
+    - Germany (PR: 0.0842)
+    - China, People's Republic of (PR: 0.0833)
+    - United States (PR: 0.0819)
+    - Netherlands, The (PR: 0.0791)
+    - France (PR: 0.0789)
+    - Italy (PR: 0.0783)
+    - United Kingdom (PR: 0.0768)
+    - Belgium (PR: 0.0766)
+    - Switzerland (PR: 0.0758)
+    - Spain (PR: 0.0740)
+    - India (PR: 0.0726)
+    - Türkiye, Republic of (PR: 0.0701)
+    - United Arab Emirates (PR: 0.0683)
+  Block 56:
+    - Qatar (PR: 0.1454)
+    - Oman (PR: 0.1416)
+    - Jordan (PR: 0.1399)
+    - Bahrain, Kingdom of (PR: 0.1363)
+    - Kuwait (PR: 0.1332)
+    - Lebanon (PR: 0.1129)
+    - Algeria (PR: 0.0966)
+    - Tunisia (PR: 0.0941)
+  Block 58:
+    - Solomon Islands (PR: 0.2833)
+    - Vanuatu (PR: 0.2620)
+    - Kiribati (PR: 0.2525)
+    - Samoa (PR: 0.0472)
+    - Nauru, Republic of (PR: 0.0273)
+    - Micronesia, Federated States of (PR: 0.0255)
+    - Bhutan (PR: 0.0255)
+    - Tonga (PR: 0.0255)
+    - Eritrea, The State of (PR: 0.0255)
+    - Holy See (PR: 0.0255)
+  Block 65:
+    - Eswatini, Kingdom of (PR: 0.3064)
+    - Lesotho, Kingdom of (PR: 0.2560)
+    - Botswana (PR: 0.1430)
+    - Zimbabwe (PR: 0.1123)
+    - Malawi (PR: 0.0894)
+    - Rwanda (PR: 0.0428)
+    - Burundi (PR: 0.0292)
+    - Comoros, Union of the (PR: 0.0209)
+  Block 84:
+    - Côte d'Ivoire (PR: 0.1354)
+    - Gabon (PR: 0.1234)
+    - Nigeria (PR: 0.1212)
+    - Senegal (PR: 0.1067)
+    - Ghana (PR: 0.1012)
+    - Cameroon (PR: 0.0855)
+    - Angola (PR: 0.0800)
+    - Congo, Republic of (PR: 0.0713)
+    - Mauritania, Islamic Republic of (PR: 0.0619)
+    - Burkina Faso (PR: 0.0579)
+    - Korea, Democratic People's Republic of (PR: 0.0409)
+    - Mauritius (PR: 0.0147)
+  Block 86:
+    - Marshall Islands, Republic of the (PR: 0.2255)
+    - Nepal (PR: 0.1899)
+    - Chad (PR: 0.1483)
+    - West Bank and Gaza (PR: 0.1159)
+    - Maldives (PR: 0.0641)
+    - Gibraltar (PR: 0.0641)
+    - South Sudan, Republic of (PR: 0.0641)
+    - Yemen, Republic of (PR: 0.0641)
+    - New Caledonia (PR: 0.0641)
+  Block 113:
+    - Barbados (PR: 0.2413)
+    - St. Vincent and the Grenadines (PR: 0.1871)
+    - St. Lucia (PR: 0.1705)
+    - Grenada (PR: 0.1044)
+    - Antigua and Barbuda (PR: 0.1021)
+    - Dominica (PR: 0.0908)
+    - Sint Maarten, Kingdom of the Netherlands (PR: 0.0762)
+    - Aruba, Kingdom of the Netherlands (PR: 0.0275)
+  Block 128:
+    - Costa Rica (PR: 0.1445)
+    - El Salvador (PR: 0.1214)
+    - Dominican Republic (PR: 0.1155)
+    - Honduras (PR: 0.1140)
+    - Nicaragua (PR: 0.0890)
+    - Panama (PR: 0.0849)
+    - Trinidad and Tobago (PR: 0.0756)
+    - Guyana (PR: 0.0680)
+    - Venezuela, República Bolivariana de (PR: 0.0636)
+    - Jamaica (PR: 0.0584)
+    - Cuba (PR: 0.0526)
+    - Cambodia (PR: 0.0125)
+  Block 133:
+    - Czech Republic (PR: 0.1922)
+    - Hungary (PR: 0.1836)
+    - Ireland (PR: 0.1651)
+    - Portugal (PR: 0.1592)
+    - Finland (PR: 0.1503)
+    - Bulgaria (PR: 0.1496)
+  Block 142:
+    - Guam (PR: 0.2720)
+    - Palau, Republic of (PR: 0.2592)
+    - St. Kitts and Nevis (PR: 0.1014)
+    - Anguilla, United Kingdom-British Overseas Territory (PR: 0.0987)
+    - American Samoa (PR: 0.0918)
+    - Bermuda (PR: 0.0750)
+    - Montserrat, United Kingdom-British Overseas Territory (PR: 0.0459)
+    - Timor-Leste, Democratic Republic of (PR: 0.0280)
+    - Tuvalu (PR: 0.0280)
+  Block 145:
+    - Philippines (PR: 0.2360)
+    - Cyprus (PR: 0.1603)
+    - Sri Lanka (PR: 0.1517)
+    - Malta (PR: 0.1398)
+    - Myanmar (PR: 0.1136)
+    - Paraguay (PR: 0.1095)
+    - Libya (PR: 0.0890)
+  Block 160:
+    - Japan (PR: 0.0908)
+    - Korea, Republic of (PR: 0.0892)
+    - Singapore (PR: 0.0880)
+    - Malaysia (PR: 0.0850)
+    - Thailand (PR: 0.0837)
+    - Vietnam (PR: 0.0832)
+    - Australia (PR: 0.0827)
+    - Hong Kong Special Administrative Region, People's Republic of China (PR: 0.0817)
+    - Indonesia (PR: 0.0810)
+    - Brazil (PR: 0.0782)
+    - Canada (PR: 0.0745)
+    - Mexico (PR: 0.0704)
+    - Taiwan Province of China (PR: 0.0115)
+  Block 184:
+    - Poland, Republic of (PR: 0.1624)
+    - Sweden (PR: 0.1562)
+    - Denmark (PR: 0.1484)
+    - Norway (PR: 0.1469)
+    - Austria (PR: 0.1440)
+    - Russian Federation (PR: 0.1241)
+    - Greece (PR: 0.1180)
+  Block 199:
+    - Falkland Islands (Malvinas) (PR: 0.2329)
+    - Cabo Verde (PR: 0.2155)
+    - Gambia, The (PR: 0.1945)
+    - Guinea-Bissau (PR: 0.1016)
+    - Sierra Leone (PR: 0.0978)
+    - Niger (PR: 0.0967)
+    - São Tomé and Príncipe, Democratic Republic of (PR: 0.0610)
+  Block 201:
+    - Kazakhstan, Republic of (PR: 0.1556)
+    - Iran, Islamic Republic of (PR: 0.1538)
+    - Uzbekistan, Republic of (PR: 0.1478)
+    - Belarus, Republic of (PR: 0.1376)
+    - Georgia (PR: 0.1372)
+    - Azerbaijan, Republic of (PR: 0.1195)
+    - Iraq (PR: 0.0694)
+    - Afghanistan, Islamic Republic of (PR: 0.0442)
+    - Syrian Arab Republic (PR: 0.0349)
+  Block 205:
+    - Togo (PR: 0.3527)
+    - Benin (PR: 0.3272)
+    - Mali (PR: 0.1239)
+    - Guinea (PR: 0.0662)
+    - Equatorial Guinea, Republic of (PR: 0.0609)
+    - Liberia (PR: 0.0267)
+    - Somalia (PR: 0.0213)
+    - Seychelles (PR: 0.0210)
+
+Flat Lognormal Blocks:
+  Block 4:
+    - Guatemala (PR: 0.2078)
+    - El Salvador (PR: 0.1813)
+    - Nicaragua (PR: 0.1352)
+    - Panama (PR: 0.1135)
+    - Guyana (PR: 0.0948)
+    - Venezuela, República Bolivariana de (PR: 0.0858)
+    - Jamaica (PR: 0.0701)
+    - Cuba (PR: 0.0526)
+    - Haiti (PR: 0.0241)
+    - Suriname (PR: 0.0211)
+    - New Caledonia (PR: 0.0136)
+  Block 5:
+    - Latvia, Republic of (PR: 0.1873)
+    - Serbia, Republic of (PR: 0.1776)
+    - Ukraine (PR: 0.1760)
+    - Estonia, Republic of (PR: 0.1719)
+    - Croatia, Republic of (PR: 0.1703)
+    - Luxembourg (PR: 0.1168)
+  Block 6:
+    - Gabon (PR: 0.0953)
+    - Togo (PR: 0.0819)
+    - Angola (PR: 0.0800)
+    - Congo, Republic of (PR: 0.0698)
+    - Zambia (PR: 0.0683)
+    - Cameroon (PR: 0.0653)
+    - Mauritania, Islamic Republic of (PR: 0.0620)
+    - Congo, Democratic Republic of the (PR: 0.0616)
+    - Namibia (PR: 0.0608)
+    - Mali (PR: 0.0538)
+    - Burkina Faso (PR: 0.0511)
+    - Benin (PR: 0.0398)
+    - Zimbabwe (PR: 0.0382)
+    - Djibouti (PR: 0.0320)
+    - Rwanda (PR: 0.0313)
+    - Guinea (PR: 0.0298)
+    - Sudan (PR: 0.0209)
+    - Sierra Leone (PR: 0.0182)
+    - Liberia (PR: 0.0167)
+    - Syrian Arab Republic (PR: 0.0140)
+    - Yemen, Republic of (PR: 0.0091)
+  Block 8:
+    - Tanzania, United Republic of (PR: 0.2489)
+    - Uganda (PR: 0.2090)
+    - Madagascar, Republic of (PR: 0.1483)
+    - Mauritius (PR: 0.1264)
+    - Mozambique, Republic of (PR: 0.1220)
+    - Ethiopia, The Federal Democratic Republic of (PR: 0.0826)
+    - Myanmar (PR: 0.0440)
+    - Cambodia (PR: 0.0188)
+  Block 22:
+    - Germany (PR: 0.1074)
+    - China, People's Republic of (PR: 0.1047)
+    - United States (PR: 0.1029)
+    - Netherlands, The (PR: 0.1025)
+    - France (PR: 0.1011)
+    - Italy (PR: 0.0996)
+    - Belgium (PR: 0.0988)
+    - United Kingdom (PR: 0.0975)
+    - Spain (PR: 0.0961)
+    - Türkiye, Republic of (PR: 0.0894)
+  Block 53:
+    - Solomon Islands (PR: 0.2773)
+    - Vanuatu (PR: 0.2500)
+    - Kiribati (PR: 0.2380)
+    - Montserrat, United Kingdom-British Overseas Territory (PR: 0.0344)
+    - Holy See (PR: 0.0338)
+    - Timor-Leste, Democratic Republic of (PR: 0.0324)
+    - Falkland Islands (Malvinas) (PR: 0.0210)
+    - Nauru, Republic of (PR: 0.0203)
+    - Greenland (PR: 0.0186)
+    - Tuvalu (PR: 0.0186)
+    - Lesotho, Kingdom of (PR: 0.0186)
+    - Anguilla, United Kingdom-British Overseas Territory (PR: 0.0186)
+    - Palau, Republic of (PR: 0.0186)
+  Block 64:
+    - Micronesia, Federated States of (PR: 0.1928)
+    - Fiji, Republic of (PR: 0.1732)
+    - Samoa (PR: 0.1343)
+    - Guam (PR: 0.1250)
+    - Korea, Democratic People's Republic of (PR: 0.1068)
+    - Marshall Islands, Republic of the (PR: 0.0786)
+    - Tonga (PR: 0.0701)
+    - Eritrea, The State of (PR: 0.0200)
+    - Comoros, Union of the (PR: 0.0199)
+    - Burundi (PR: 0.0198)
+    - Bhutan (PR: 0.0198)
+    - American Samoa (PR: 0.0198)
+    - São Tomé and Príncipe, Democratic Republic of (PR: 0.0198)
+  Block 70:
+    - Argentina (PR: 0.2060)
+    - Chile (PR: 0.2028)
+    - Colombia (PR: 0.2005)
+    - Peru (PR: 0.1979)
+    - Ecuador (PR: 0.1927)
+  Block 102:
+    - Czech Republic (PR: 0.0914)
+    - Hungary (PR: 0.0877)
+    - Romania (PR: 0.0831)
+    - Slovak Republic (PR: 0.0827)
+    - Greece (PR: 0.0751)
+    - Slovenia, Republic of (PR: 0.0750)
+    - Norway (PR: 0.0747)
+    - Ireland (PR: 0.0743)
+    - Bulgaria (PR: 0.0738)
+    - Finland (PR: 0.0730)
+    - Portugal (PR: 0.0727)
+    - Lithuania, Republic of (PR: 0.0693)
+    - Israel (PR: 0.0673)
+  Block 103:
+    - Japan (PR: 0.0978)
+    - Singapore (PR: 0.0959)
+    - Korea, Republic of (PR: 0.0953)
+    - Malaysia (PR: 0.0922)
+    - Hong Kong Special Administrative Region, People's Republic of China (PR: 0.0909)
+    - Thailand (PR: 0.0906)
+    - India (PR: 0.0905)
+    - Vietnam (PR: 0.0901)
+    - Indonesia (PR: 0.0894)
+    - United Arab Emirates (PR: 0.0888)
+    - Canada (PR: 0.0786)
+  Block 108:
+    - Brazil (PR: 0.1515)
+    - Russian Federation (PR: 0.1325)
+    - Saudi Arabia (PR: 0.1315)
+    - South Africa (PR: 0.1184)
+    - Mexico (PR: 0.1174)
+    - Egypt, Arab Republic of (PR: 0.1162)
+    - Australia (PR: 0.1099)
+    - Morocco (PR: 0.1059)
+    - Taiwan Province of China (PR: 0.0167)
+  Block 122:
+    - Dominican Republic (PR: 0.2148)
+    - Costa Rica (PR: 0.2118)
+    - Paraguay (PR: 0.1698)
+    - Honduras (PR: 0.1540)
+    - Bolivia (PR: 0.1452)
+    - Trinidad and Tobago (PR: 0.1043)
+  Block 134:
+    - Pakistan (PR: 0.1898)
+    - Qatar (PR: 0.1862)
+    - Bangladesh (PR: 0.1658)
+    - New Zealand (PR: 0.1655)
+    - Philippines (PR: 0.1474)
+    - Sri Lanka (PR: 0.1452)
+  Block 135:
+    - Kyrgyz Republic (PR: 0.3757)
+    - Turkmenistan (PR: 0.2674)
+    - San Marino, Republic of (PR: 0.0997)
+    - Afghanistan, Islamic Republic of (PR: 0.0929)
+    - Faroe Islands (PR: 0.0757)
+    - Montenegro (PR: 0.0539)
+    - Gibraltar (PR: 0.0349)
+  Block 142:
+    - Iran, Islamic Republic of (PR: 0.1166)
+    - Belarus, Republic of (PR: 0.1048)
+    - Uzbekistan, Republic of (PR: 0.1036)
+    - Kazakhstan, Republic of (PR: 0.1026)
+    - Georgia (PR: 0.0950)
+    - Azerbaijan, Republic of (PR: 0.0726)
+    - North Macedonia, Republic of (PR: 0.0723)
+    - Armenia, Republic of (PR: 0.0699)
+    - Moldova, Republic of (PR: 0.0635)
+    - Bosnia and Herzegovina (PR: 0.0602)
+    - Albania (PR: 0.0583)
+    - Kosovo, Republic of (PR: 0.0536)
+    - Iceland (PR: 0.0271)
+  Block 143:
+    - Nepal (PR: 0.2533)
+    - Mongolia (PR: 0.2339)
+    - Malawi (PR: 0.1850)
+    - Seychelles (PR: 0.1782)
+    - Papua New Guinea (PR: 0.0353)
+    - Lao People's Democratic Republic (PR: 0.0257)
+    - Brunei Darussalam (PR: 0.0178)
+    - Equatorial Guinea, Republic of (PR: 0.0177)
+    - Maldives (PR: 0.0177)
+    - Botswana (PR: 0.0177)
+    - West Bank and Gaza (PR: 0.0177)
+  Block 154:
+    - Barbados (PR: 0.1945)
+    - St. Lucia (PR: 0.1130)
+    - St. Vincent and the Grenadines (PR: 0.1118)
+    - Curaçao, Kingdom of the Netherlands (PR: 0.0952)
+    - Sint Maarten, Kingdom of the Netherlands (PR: 0.0793)
+    - Belize (PR: 0.0766)
+    - Aruba, Kingdom of the Netherlands (PR: 0.0688)
+    - Antigua and Barbuda (PR: 0.0676)
+    - Grenada (PR: 0.0644)
+    - Dominica (PR: 0.0541)
+    - St. Kitts and Nevis (PR: 0.0512)
+    - Bermuda (PR: 0.0121)
+    - Bahamas, The (PR: 0.0116)
+  Block 156:
+    - Poland, Republic of (PR: 0.2097)
+    - Sweden (PR: 0.2021)
+    - Austria (PR: 0.1993)
+    - Switzerland (PR: 0.1945)
+    - Denmark (PR: 0.1944)
+  Block 175:
+    - Algeria (PR: 0.0918)
+    - Oman (PR: 0.0912)
+    - Lebanon (PR: 0.0763)
+    - Tunisia (PR: 0.0755)
+    - Jordan (PR: 0.0739)
+    - Bahrain, Kingdom of (PR: 0.0736)
+    - Kuwait (PR: 0.0662)
+    - Nigeria (PR: 0.0590)
+    - Cyprus (PR: 0.0569)
+    - Côte d'Ivoire (PR: 0.0546)
+    - Malta (PR: 0.0524)
+    - Kenya (PR: 0.0511)
+    - Uruguay (PR: 0.0476)
+    - Iraq (PR: 0.0409)
+    - Ghana (PR: 0.0372)
+    - Senegal (PR: 0.0317)
+    - Libya (PR: 0.0202)
+  Block 191:
+    - Chad (PR: 0.3486)
+    - Niger (PR: 0.3462)
+    - Gambia, The (PR: 0.0877)
+    - Central African Republic (PR: 0.0453)
+    - Eswatini, Kingdom of (PR: 0.0438)
+    - Somalia (PR: 0.0329)
+    - Cabo Verde (PR: 0.0161)
+    - Guinea-Bissau (PR: 0.0159)
+    - South Sudan, Republic of (PR: 0.0159)
+    - Tajikistan, Republic of (PR: 0.0159)
+    - Macao Special Administrative Region, People's Republic of China (PR: 0.0159)
+    - French Polynesia (PR: 0.0159)
+
+Flat Pp Blocks:
+  Block 7:
+    - Guatemala (PR: 0.0482)
+    - Trinidad and Tobago (PR: 0.0395)
+    - Fiji, Republic of (PR: 0.0389)
+    - Dominican Republic (PR: 0.0380)
+    - Uruguay (PR: 0.0356)
+    - Georgia (PR: 0.0355)
+    - Uzbekistan, Republic of (PR: 0.0355)
+    - Iran, Islamic Republic of (PR: 0.0351)
+    - Honduras (PR: 0.0291)
+    - Azerbaijan, Republic of (PR: 0.0288)
+    - Zambia (PR: 0.0237)
+    - Nicaragua (PR: 0.0221)
+    - Armenia, Republic of (PR: 0.0220)
+    - Eswatini, Kingdom of (PR: 0.0216)
+    - Turkmenistan (PR: 0.0213)
+    - Vanuatu (PR: 0.0202)
+    - Guyana (PR: 0.0200)
+    - Panama (PR: 0.0199)
+    - Bolivia (PR: 0.0195)
+    - Papua New Guinea (PR: 0.0182)
+    - Kyrgyz Republic (PR: 0.0170)
+    - Iceland (PR: 0.0167)
+    - Moldova, Republic of (PR: 0.0153)
+    - Barbados (PR: 0.0150)
+    - Zimbabwe (PR: 0.0150)
+    - Malawi (PR: 0.0144)
+    - Tajikistan, Republic of (PR: 0.0138)
+    - Libya (PR: 0.0126)
+    - Uganda (PR: 0.0121)
+    - Micronesia, Federated States of (PR: 0.0107)
+    - Rwanda (PR: 0.0103)
+    - Burkina Faso (PR: 0.0102)
+    - Togo (PR: 0.0102)
+    - Faroe Islands (PR: 0.0094)
+    - Mongolia (PR: 0.0091)
+    - Greenland (PR: 0.0083)
+    - Guam (PR: 0.0082)
+    - Benin (PR: 0.0082)
+    - St. Lucia (PR: 0.0082)
+    - Botswana (PR: 0.0081)
+    - Mauritania, Islamic Republic of (PR: 0.0074)
+    - Lesotho, Kingdom of (PR: 0.0073)
+    - Curaçao, Kingdom of the Netherlands (PR: 0.0070)
+    - Djibouti (PR: 0.0070)
+    - Aruba, Kingdom of the Netherlands (PR: 0.0066)
+    - Lao People's Democratic Republic (PR: 0.0065)
+    - Samoa (PR: 0.0065)
+    - Marshall Islands, Republic of the (PR: 0.0060)
+    - New Caledonia (PR: 0.0059)
+    - Nepal (PR: 0.0054)
+    - Haiti (PR: 0.0053)
+    - Gambia, The (PR: 0.0052)
+    - Grenada (PR: 0.0052)
+    - Sudan (PR: 0.0050)
+    - Niger (PR: 0.0050)
+    - Kiribati (PR: 0.0048)
+    - Equatorial Guinea, Republic of (PR: 0.0048)
+    - Bahamas, The (PR: 0.0047)
+    - San Marino, Republic of (PR: 0.0043)
+    - Falkland Islands (Malvinas) (PR: 0.0043)
+    - Burundi (PR: 0.0043)
+    - Cabo Verde (PR: 0.0042)
+    - Tonga (PR: 0.0042)
+    - Syrian Arab Republic (PR: 0.0041)
+    - Anguilla, United Kingdom-British Overseas Territory (PR: 0.0036)
+    - Sint Maarten, Kingdom of the Netherlands (PR: 0.0035)
+    - Bhutan (PR: 0.0035)
+    - Timor-Leste, Democratic Republic of (PR: 0.0033)
+    - Seychelles (PR: 0.0032)
+    - Chad (PR: 0.0030)
+    - Eritrea, The State of (PR: 0.0029)
+    - Montenegro (PR: 0.0028)
+    - Central African Republic (PR: 0.0024)
+    - South Sudan, Republic of (PR: 0.0023)
+    - Gibraltar (PR: 0.0023)
+    - Guinea-Bissau (PR: 0.0023)
+    - Yemen, Republic of (PR: 0.0023)
+    - Tuvalu (PR: 0.0022)
+    - West Bank and Gaza (PR: 0.0021)
+    - Liberia (PR: 0.0020)
+    - Comoros, Union of the (PR: 0.0020)
+    - Maldives (PR: 0.0019)
+    - Brunei Darussalam (PR: 0.0019)
+    - Palau, Republic of (PR: 0.0019)
+    - Montserrat, United Kingdom-British Overseas Territory (PR: 0.0018)
+    - Nauru, Republic of (PR: 0.0018)
+    - Macao Special Administrative Region, People's Republic of China (PR: 0.0018)
+    - São Tomé and Príncipe, Democratic Republic of (PR: 0.0018)
+    - Holy See (PR: 0.0017)
+    - French Polynesia (PR: 0.0017)
+    - Cambodia (PR: 0.0017)
+  Block 63:
+    - Russian Federation (PR: 0.0389)
+    - Malaysia (PR: 0.0383)
+    - Czech Republic (PR: 0.0327)
+    - Hungary (PR: 0.0306)
+    - Argentina (PR: 0.0276)
+    - Slovak Republic (PR: 0.0276)
+    - Egypt, Arab Republic of (PR: 0.0273)
+    - Portugal (PR: 0.0270)
+    - Slovenia, Republic of (PR: 0.0269)
+    - Vietnam (PR: 0.0262)
+    - Bulgaria (PR: 0.0259)
+    - Pakistan (PR: 0.0235)
+    - Israel (PR: 0.0225)
+    - Serbia, Republic of (PR: 0.0224)
+    - Croatia, Republic of (PR: 0.0210)
+    - Colombia (PR: 0.0203)
+    - Bangladesh (PR: 0.0201)
+    - Qatar (PR: 0.0200)
+    - Latvia, Republic of (PR: 0.0199)
+    - Philippines (PR: 0.0193)
+    - Ecuador (PR: 0.0176)
+    - Peru (PR: 0.0174)
+    - Sri Lanka (PR: 0.0174)
+    - Estonia, Republic of (PR: 0.0162)
+    - Nigeria (PR: 0.0162)
+    - Luxembourg (PR: 0.0156)
+    - Bahrain, Kingdom of (PR: 0.0146)
+    - Paraguay (PR: 0.0145)
+    - Kazakhstan, Republic of (PR: 0.0143)
+    - Cyprus (PR: 0.0138)
+    - Bosnia and Herzegovina (PR: 0.0135)
+    - Algeria (PR: 0.0134)
+    - Belarus, Republic of (PR: 0.0127)
+    - North Macedonia, Republic of (PR: 0.0120)
+    - Costa Rica (PR: 0.0119)
+    - Jordan (PR: 0.0115)
+    - Malta (PR: 0.0111)
+    - Lebanon (PR: 0.0110)
+    - Gabon (PR: 0.0110)
+    - Myanmar (PR: 0.0108)
+    - Iraq (PR: 0.0106)
+    - Kuwait (PR: 0.0105)
+    - Ghana (PR: 0.0099)
+    - Tanzania, United Republic of (PR: 0.0099)
+    - Albania (PR: 0.0092)
+    - Angola (PR: 0.0092)
+    - Mozambique, Republic of (PR: 0.0089)
+    - Cameroon (PR: 0.0078)
+    - Venezuela, República Bolivariana de (PR: 0.0078)
+    - Ethiopia, The Federal Democratic Republic of (PR: 0.0077)
+    - Congo, Republic of (PR: 0.0075)
+    - Senegal (PR: 0.0073)
+    - Congo, Democratic Republic of the (PR: 0.0070)
+    - Jamaica (PR: 0.0068)
+    - Namibia (PR: 0.0065)
+    - Kosovo, Republic of (PR: 0.0062)
+    - El Salvador (PR: 0.0057)
+    - Madagascar, Republic of (PR: 0.0056)
+    - Mali (PR: 0.0056)
+    - Mauritius (PR: 0.0054)
+    - Cuba (PR: 0.0050)
+    - Guinea (PR: 0.0047)
+    - Sierra Leone (PR: 0.0037)
+    - Korea, Democratic People's Republic of (PR: 0.0037)
+    - Somalia (PR: 0.0035)
+    - Afghanistan, Islamic Republic of (PR: 0.0032)
+    - St. Vincent and the Grenadines (PR: 0.0031)
+    - Solomon Islands (PR: 0.0031)
+    - Belize (PR: 0.0031)
+    - Suriname (PR: 0.0029)
+    - Dominica (PR: 0.0028)
+    - St. Kitts and Nevis (PR: 0.0028)
+    - Antigua and Barbuda (PR: 0.0025)
+    - Bermuda (PR: 0.0023)
+    - American Samoa (PR: 0.0022)
+    - Taiwan Province of China (PR: 0.0020)
+  Block 185:
+    - China, People's Republic of (PR: 0.0322)
+    - Germany (PR: 0.0309)
+    - United States (PR: 0.0307)
+    - Netherlands, The (PR: 0.0285)
+    - Italy (PR: 0.0283)
+    - France (PR: 0.0282)
+    - United Kingdom (PR: 0.0275)
+    - Belgium (PR: 0.0271)
+    - Japan (PR: 0.0269)
+    - India (PR: 0.0265)
+    - Spain (PR: 0.0263)
+    - Korea, Republic of (PR: 0.0263)
+    - Switzerland (PR: 0.0261)
+    - Poland, Republic of (PR: 0.0252)
+    - Türkiye, Republic of (PR: 0.0248)
+    - Sweden (PR: 0.0246)
+    - Brazil (PR: 0.0246)
+    - Singapore (PR: 0.0243)
+    - Hong Kong Special Administrative Region, People's Republic of China (PR: 0.0242)
+    - Thailand (PR: 0.0240)
+    - United Arab Emirates (PR: 0.0239)
+    - Austria (PR: 0.0238)
+    - Canada (PR: 0.0238)
+    - Denmark (PR: 0.0234)
+    - Indonesia (PR: 0.0230)
+    - Ireland (PR: 0.0228)
+    - Saudi Arabia (PR: 0.0227)
+    - Norway (PR: 0.0225)
+    - Australia (PR: 0.0225)
+    - Finland (PR: 0.0221)
+    - Mexico (PR: 0.0215)
+    - Romania (PR: 0.0208)
+    - South Africa (PR: 0.0207)
+    - Greece (PR: 0.0197)
+    - Lithuania, Republic of (PR: 0.0191)
+    - Chile (PR: 0.0189)
+    - Morocco (PR: 0.0189)
+    - New Zealand (PR: 0.0178)
+    - Ukraine (PR: 0.0177)
+    - Tunisia (PR: 0.0157)
+    - Oman (PR: 0.0154)
+    - Côte d'Ivoire (PR: 0.0136)
+    - Kenya (PR: 0.0124)
+
+[Potential Transit Hubs (High Betweenness vs. PageRank - Based on Best Model)]
+  Top candidates in Flat Pp (higher Betweenness rank than PageRank rank):
+    - Palau, Republic of (Block: 7, Btw Rank: 12, PR Rank: 203, Diff: 191)
+    - Macao Special Administrative Region, People's Republic of China (Block: 7, Btw Rank: 16, PR Rank: 206, Diff: 190)
+    - Holy See (Block: 7, Btw Rank: 32, PR Rank: 208, Diff: 176)
+    - Bermuda (Block: 63, Btw Rank: 18, PR Rank: 194, Diff: 176)
+    - Antigua and Barbuda (Block: 63, Btw Rank: 14, PR Rank: 188, Diff: 174)
+    - St. Kitts and Nevis (Block: 63, Btw Rank: 19, PR Rank: 186, Diff: 167)
+    - Bhutan (Block: 7, Btw Rank: 10, PR Rank: 175, Diff: 165)
+    - Sierra Leone (Block: 63, Btw Rank: 7, PR Rank: 170, Diff: 163)
+    - Montenegro (Block: 7, Btw Rank: 24, PR Rank: 187, Diff: 163)
+    - Somalia (Block: 63, Btw Rank: 11, PR Rank: 173, Diff: 162)
+    - St. Vincent and the Grenadines (Block: 63, Btw Rank: 21, PR Rank: 179, Diff: 158)
+    - Montserrat, United Kingdom-British Overseas Territory (Block: 7, Btw Rank: 48, PR Rank: 204, Diff: 156)
+    - Gambia, The (Block: 7, Btw Rank: 4, PR Rank: 155, Diff: 151)
+    - American Samoa (Block: 63, Btw Rank: 44, PR Rank: 195, Diff: 151)
+    - Nepal (Block: 7, Btw Rank: 8, PR Rank: 153, Diff: 145)
+    - São Tomé and Príncipe, Democratic Republic of (Block: 7, Btw Rank: 65, PR Rank: 207, Diff: 142)
+    - Namibia (Block: 63, Btw Rank: 3, PR Rank: 145, Diff: 142)
+    - Guinea (Block: 63, Btw Rank: 22, PR Rank: 163, Diff: 141)
+    - Anguilla, United Kingdom-British Overseas Territory (Block: 7, Btw Rank: 33, PR Rank: 172, Diff: 139)
+    - Seychelles (Block: 7, Btw Rank: 46, PR Rank: 178, Diff: 132)
+    - Curaçao, Kingdom of the Netherlands (Block: 7, Btw Rank: 6, PR Rank: 138, Diff: 132)
+    - Chad (Block: 7, Btw Rank: 50, PR Rank: 182, Diff: 132)
+    - Guinea-Bissau (Block: 7, Btw Rank: 63, PR Rank: 192, Diff: 129)
+    - Belize (Block: 63, Btw Rank: 54, PR Rank: 181, Diff: 127)
+    - St. Lucia (Block: 7, Btw Rank: 5, PR Rank: 129, Diff: 124)
+    - El Salvador (Block: 63, Btw Rank: 27, PR Rank: 149, Diff: 122)
+    - Madagascar, Republic of (Block: 63, Btw Rank: 29, PR Rank: 150, Diff: 121)
+    - Timor-Leste, Democratic Republic of (Block: 7, Btw Rank: 56, PR Rank: 176, Diff: 120)
+    - Mali (Block: 63, Btw Rank: 31, PR Rank: 151, Diff: 120)
+    - Congo, Republic of (Block: 63, Btw Rank: 15, PR Rank: 134, Diff: 119)
+    - Comoros, Union of the (Block: 7, Btw Rank: 88, PR Rank: 200, Diff: 112)
+    - Guam (Block: 7, Btw Rank: 17, PR Rank: 127, Diff: 110)
+    - Mauritius (Block: 63, Btw Rank: 43, PR Rank: 152, Diff: 109)
+    - Niger (Block: 7, Btw Rank: 51, PR Rank: 159, Diff: 108)
+    - Dominica (Block: 63, Btw Rank: 78, PR Rank: 185, Diff: 107)
+    - North Macedonia, Republic of (Block: 63, Btw Rank: 2, PR Rank: 106, Diff: 104)
+    - Cameroon (Block: 63, Btw Rank: 28, PR Rank: 131, Diff: 103)
+    - Equatorial Guinea, Republic of (Block: 7, Btw Rank: 60, PR Rank: 161, Diff: 101)
+    - Greenland (Block: 7, Btw Rank: 25, PR Rank: 126, Diff: 101)
+    - Korea, Democratic People's Republic of (Block: 63, Btw Rank: 71, PR Rank: 171, Diff: 100)
+    - Solomon Islands (Block: 63, Btw Rank: 84, PR Rank: 180, Diff: 96)
+    - Kenya (Block: 185, Btw Rank: 9, PR Rank: 104, Diff: 95)
+    - Central African Republic (Block: 7, Btw Rank: 95, PR Rank: 189, Diff: 94)
+    - Angola (Block: 63, Btw Rank: 30, PR Rank: 123, Diff: 93)
+    - Cuba (Block: 63, Btw Rank: 64, PR Rank: 157, Diff: 93)
+    - Tuvalu (Block: 7, Btw Rank: 103, PR Rank: 196, Diff: 93)
+    - Benin (Block: 7, Btw Rank: 38, PR Rank: 128, Diff: 90)
+    - Brunei Darussalam (Block: 7, Btw Rank: 114, PR Rank: 202, Diff: 88)
+    - Liberia (Block: 7, Btw Rank: 110, PR Rank: 198, Diff: 88)
+    - Côte d'Ivoire (Block: 185, Btw Rank: 13, PR Rank: 99, Diff: 86)
+    - Iceland (Block: 7, Btw Rank: 1, PR Rank: 84, Diff: 83)
+    - New Caledonia (Block: 7, Btw Rank: 66, PR Rank: 148, Diff: 82)
+    - Bahamas, The (Block: 7, Btw Rank: 80, PR Rank: 162, Diff: 82)
+    - Cambodia (Block: 7, Btw Rank: 131, PR Rank: 209, Diff: 78)
+    - Djibouti (Block: 7, Btw Rank: 61, PR Rank: 139, Diff: 78)
+    - French Polynesia (Block: 7, Btw Rank: 131, PR Rank: 209, Diff: 78)
+    - Ghana (Block: 63, Btw Rank: 42, PR Rank: 119, Diff: 77)
+    - Nauru, Republic of (Block: 7, Btw Rank: 131, PR Rank: 205, Diff: 74)
+    - Sudan (Block: 7, Btw Rank: 85, PR Rank: 158, Diff: 73)
+    - Iraq (Block: 63, Btw Rank: 41, PR Rank: 114, Diff: 73)
+    - Falkland Islands (Malvinas) (Block: 7, Btw Rank: 92, PR Rank: 165, Diff: 73)
+    - Kosovo, Republic of (Block: 63, Btw Rank: 73, PR Rank: 146, Diff: 73)
+    - Jamaica (Block: 63, Btw Rank: 70, PR Rank: 141, Diff: 71)
+    - Gabon (Block: 63, Btw Rank: 40, PR Rank: 111, Diff: 71)
+    - Suriname (Block: 63, Btw Rank: 113, PR Rank: 184, Diff: 71)
+    - Maldives (Block: 7, Btw Rank: 131, PR Rank: 201, Diff: 70)
+    - Taiwan Province of China (Block: 63, Btw Rank: 131, PR Rank: 199, Diff: 68)
+    - Albania (Block: 63, Btw Rank: 55, PR Rank: 122, Diff: 67)
+    - Algeria (Block: 63, Btw Rank: 34, PR Rank: 101, Diff: 67)
+    - Cabo Verde (Block: 7, Btw Rank: 101, PR Rank: 167, Diff: 66)
+    - West Bank and Gaza (Block: 7, Btw Rank: 131, PR Rank: 197, Diff: 66)
+    - Gibraltar (Block: 7, Btw Rank: 126, PR Rank: 191, Diff: 65)
+    - Venezuela, República Bolivariana de (Block: 63, Btw Rank: 68, PR Rank: 132, Diff: 64)
+    - Syrian Arab Republic (Block: 7, Btw Rank: 106, PR Rank: 169, Diff: 63)
+    - Sint Maarten, Kingdom of the Netherlands (Block: 7, Btw Rank: 112, PR Rank: 174, Diff: 62)
+    - Yemen, Republic of (Block: 7, Btw Rank: 131, PR Rank: 193, Diff: 62)
+    - South Sudan, Republic of (Block: 7, Btw Rank: 131, PR Rank: 190, Diff: 59)
+    - Eritrea, The State of (Block: 7, Btw Rank: 125, PR Rank: 183, Diff: 58)
+    - Malawi (Block: 7, Btw Rank: 39, PR Rank: 95, Diff: 56)
+    - Papua New Guinea (Block: 7, Btw Rank: 23, PR Rank: 77, Diff: 54)
+    - Kiribati (Block: 7, Btw Rank: 106, PR Rank: 160, Diff: 54)
+    - Mauritania, Islamic Republic of (Block: 7, Btw Rank: 82, PR Rank: 135, Diff: 53)
+    - Costa Rica (Block: 63, Btw Rank: 57, PR Rank: 107, Diff: 50)
+    - Aruba, Kingdom of the Netherlands (Block: 7, Btw Rank: 94, PR Rank: 142, Diff: 48)
+    - Afghanistan, Islamic Republic of (Block: 63, Btw Rank: 131, PR Rank: 177, Diff: 46)
+    - Ukraine (Block: 185, Btw Rank: 35, PR Rank: 79, Diff: 44)
+    - Lesotho, Kingdom of (Block: 7, Btw Rank: 93, PR Rank: 136, Diff: 43)
+    - Tunisia (Block: 185, Btw Rank: 45, PR Rank: 87, Diff: 42)
+    - Lao People's Democratic Republic (Block: 7, Btw Rank: 103, PR Rank: 143, Diff: 40)
+    - Oman (Block: 185, Btw Rank: 49, PR Rank: 89, Diff: 40)
+    - Tonga (Block: 7, Btw Rank: 131, PR Rank: 168, Diff: 37)
+    - Uganda (Block: 7, Btw Rank: 69, PR Rank: 105, Diff: 36)
+    - Burundi (Block: 7, Btw Rank: 131, PR Rank: 166, Diff: 35)
+    - San Marino, Republic of (Block: 7, Btw Rank: 129, PR Rank: 164, Diff: 35)
+    - Moldova, Republic of (Block: 7, Btw Rank: 58, PR Rank: 90, Diff: 32)
+    - Eswatini, Kingdom of (Block: 7, Btw Rank: 26, PR Rank: 58, Diff: 32)
+    - Guyana (Block: 7, Btw Rank: 36, PR Rank: 67, Diff: 31)
+    - New Zealand (Block: 185, Btw Rank: 47, PR Rank: 78, Diff: 31)
+    - Jordan (Block: 63, Btw Rank: 78, PR Rank: 108, Diff: 30)
+    - Zambia (Block: 7, Btw Rank: 20, PR Rank: 45, Diff: 25)
+    - Haiti (Block: 7, Btw Rank: 129, PR Rank: 154, Diff: 25)
+    - Grenada (Block: 7, Btw Rank: 131, PR Rank: 156, Diff: 25)
+    - Myanmar (Block: 63, Btw Rank: 91, PR Rank: 112, Diff: 21)
+    - Kazakhstan, Republic of (Block: 63, Btw Rank: 77, PR Rank: 96, Diff: 19)
+    - Kyrgyz Republic (Block: 7, Btw Rank: 66, PR Rank: 83, Diff: 17)
+    - Marshall Islands, Republic of the (Block: 7, Btw Rank: 131, PR Rank: 147, Diff: 16)
+    - Togo (Block: 7, Btw Rank: 102, PR Rank: 118, Diff: 16)
+    - Ethiopia, The Federal Democratic Republic of (Block: 63, Btw Rank: 119, PR Rank: 133, Diff: 14)
+    - Samoa (Block: 7, Btw Rank: 131, PR Rank: 144, Diff: 13)
+    - Burkina Faso (Block: 7, Btw Rank: 106, PR Rank: 117, Diff: 11)
+    - Zimbabwe (Block: 7, Btw Rank: 81, PR Rank: 92, Diff: 11)
+    - Mozambique, Republic of (Block: 63, Btw Rank: 115, PR Rank: 125, Diff: 10)
+    - Malta (Block: 63, Btw Rank: 100, PR Rank: 109, Diff: 9)
+    - Congo, Democratic Republic of the (Block: 63, Btw Rank: 131, PR Rank: 140, Diff: 9)
+    - Senegal (Block: 63, Btw Rank: 131, PR Rank: 137, Diff: 6)
+    - Belarus, Republic of (Block: 63, Btw Rank: 97, PR Rank: 102, Diff: 5)
+    - Armenia, Republic of (Block: 7, Btw Rank: 53, PR Rank: 57, Diff: 4)
+    - Faroe Islands (Block: 7, Btw Rank: 121, PR Rank: 121, Diff: 0)
+    - Botswana (Block: 7, Btw Rank: 131, PR Rank: 130, Diff: -1)
+    - Turkmenistan (Block: 7, Btw Rank: 62, PR Rank: 60, Diff: -2)
+    - Bahrain, Kingdom of (Block: 63, Btw Rank: 96, PR Rank: 93, Diff: -3)
+    - Latvia, Republic of (Block: 63, Btw Rank: 75, PR Rank: 70, Diff: -5)
+    - Kuwait (Block: 63, Btw Rank: 122, PR Rank: 115, Diff: -7)
+    - Mongolia (Block: 7, Btw Rank: 131, PR Rank: 124, Diff: -7)
+    - Bolivia (Block: 7, Btw Rank: 82, PR Rank: 72, Diff: -10)
+    - Tanzania, United Republic of (Block: 63, Btw Rank: 131, PR Rank: 120, Diff: -11)
+    - Cyprus (Block: 63, Btw Rank: 109, PR Rank: 97, Diff: -12)
+    - Chile (Block: 185, Btw Rank: 90, PR Rank: 75, Diff: -15)
+    - Rwanda (Block: 7, Btw Rank: 131, PR Rank: 116, Diff: -15)
+    - Lebanon (Block: 63, Btw Rank: 128, PR Rank: 110, Diff: -18)
+    - Micronesia, Federated States of (Block: 7, Btw Rank: 131, PR Rank: 113, Diff: -18)
+    - Serbia, Republic of (Block: 63, Btw Rank: 72, PR Rank: 54, Diff: -18)
+    - Nicaragua (Block: 7, Btw Rank: 74, PR Rank: 56, Diff: -18)
+    - Bosnia and Herzegovina (Block: 63, Btw Rank: 123, PR Rank: 100, Diff: -23)
+    - Estonia, Republic of (Block: 63, Btw Rank: 111, PR Rank: 85, Diff: -26)
+    - Libya (Block: 7, Btw Rank: 131, PR Rank: 103, Diff: -28)
+    - Tajikistan, Republic of (Block: 7, Btw Rank: 131, PR Rank: 98, Diff: -33)
+    - Russian Federation (Block: 63, Btw Rank: 37, PR Rank: 3, Diff: -34)
+    - Sri Lanka (Block: 63, Btw Rank: 117, PR Rank: 82, Diff: -35)
+    - Paraguay (Block: 63, Btw Rank: 131, PR Rank: 94, Diff: -37)
+    - Barbados (Block: 7, Btw Rank: 131, PR Rank: 91, Diff: -40)
+    - Luxembourg (Block: 63, Btw Rank: 131, PR Rank: 88, Diff: -43)
+    - Honduras (Block: 7, Btw Rank: 59, PR Rank: 16, Diff: -43)
+    - Lithuania, Republic of (Block: 185, Btw Rank: 118, PR Rank: 74, Diff: -44)
+    - Nigeria (Block: 63, Btw Rank: 131, PR Rank: 86, Diff: -45)
+    - Uruguay (Block: 7, Btw Rank: 52, PR Rank: 7, Diff: -45)
+    - Morocco (Block: 185, Btw Rank: 124, PR Rank: 76, Diff: -48)
+    - Peru (Block: 63, Btw Rank: 131, PR Rank: 81, Diff: -50)
+    - Ecuador (Block: 63, Btw Rank: 131, PR Rank: 80, Diff: -51)
+    - Slovak Republic (Block: 63, Btw Rank: 76, PR Rank: 22, Diff: -54)
+    - Bulgaria (Block: 63, Btw Rank: 89, PR Rank: 34, Diff: -55)
+    - Philippines (Block: 63, Btw Rank: 131, PR Rank: 73, Diff: -58)
+    - Romania (Block: 185, Btw Rank: 120, PR Rank: 62, Diff: -58)
+    - Greece (Block: 185, Btw Rank: 131, PR Rank: 71, Diff: -60)
+    - Panama (Block: 7, Btw Rank: 131, PR Rank: 69, Diff: -62)
+    - Qatar (Block: 63, Btw Rank: 131, PR Rank: 68, Diff: -63)
+    - Bangladesh (Block: 63, Btw Rank: 131, PR Rank: 66, Diff: -65)
+    - Vanuatu (Block: 7, Btw Rank: 131, PR Rank: 65, Diff: -66)
+    - Colombia (Block: 63, Btw Rank: 131, PR Rank: 64, Diff: -67)
+    - South Africa (Block: 185, Btw Rank: 131, PR Rank: 63, Diff: -68)
+    - Croatia, Republic of (Block: 63, Btw Rank: 131, PR Rank: 61, Diff: -70)
+    - Mexico (Block: 185, Btw Rank: 131, PR Rank: 59, Diff: -72)
+    - Finland (Block: 185, Btw Rank: 131, PR Rank: 55, Diff: -76)
+    - Iran, Islamic Republic of (Block: 7, Btw Rank: 87, PR Rank: 10, Diff: -77)
+    - Australia (Block: 185, Btw Rank: 131, PR Rank: 53, Diff: -78)
+    - Israel (Block: 63, Btw Rank: 131, PR Rank: 52, Diff: -79)
+    - Norway (Block: 185, Btw Rank: 131, PR Rank: 51, Diff: -80)
+    - Saudi Arabia (Block: 185, Btw Rank: 131, PR Rank: 50, Diff: -81)
+    - Ireland (Block: 185, Btw Rank: 131, PR Rank: 49, Diff: -82)
+    - Hungary (Block: 63, Btw Rank: 97, PR Rank: 15, Diff: -82)
+    - Trinidad and Tobago (Block: 7, Btw Rank: 85, PR Rank: 2, Diff: -83)
+    - Indonesia (Block: 185, Btw Rank: 131, PR Rank: 48, Diff: -83)
+    - Denmark (Block: 185, Btw Rank: 131, PR Rank: 47, Diff: -84)
+    - Pakistan (Block: 63, Btw Rank: 131, PR Rank: 46, Diff: -85)
+    - Czech Republic (Block: 63, Btw Rank: 97, PR Rank: 11, Diff: -86)
+    - Canada (Block: 185, Btw Rank: 131, PR Rank: 44, Diff: -87)
+    - Austria (Block: 185, Btw Rank: 131, PR Rank: 43, Diff: -88)
+    - United Arab Emirates (Block: 185, Btw Rank: 131, PR Rank: 42, Diff: -89)
+    - Thailand (Block: 185, Btw Rank: 131, PR Rank: 41, Diff: -90)
+    - Hong Kong Special Administrative Region, People's Republic of China (Block: 185, Btw Rank: 131, PR Rank: 40, Diff: -91)
+    - Singapore (Block: 185, Btw Rank: 131, PR Rank: 39, Diff: -92)
+    - Brazil (Block: 185, Btw Rank: 131, PR Rank: 38, Diff: -93)
+    - Sweden (Block: 185, Btw Rank: 131, PR Rank: 37, Diff: -94)
+    - Türkiye, Republic of (Block: 185, Btw Rank: 131, PR Rank: 36, Diff: -95)
+    - Poland, Republic of (Block: 185, Btw Rank: 131, PR Rank: 35, Diff: -96)
+    - Switzerland (Block: 185, Btw Rank: 131, PR Rank: 33, Diff: -98)
+    - Vietnam (Block: 63, Btw Rank: 131, PR Rank: 32, Diff: -99)
+    - Fiji, Republic of (Block: 7, Btw Rank: 103, PR Rank: 4, Diff: -99)
+    - Korea, Republic of (Block: 185, Btw Rank: 131, PR Rank: 31, Diff: -100)
+    - Spain (Block: 185, Btw Rank: 131, PR Rank: 30, Diff: -101)
+    - India (Block: 185, Btw Rank: 131, PR Rank: 29, Diff: -102)
+    - Japan (Block: 185, Btw Rank: 131, PR Rank: 28, Diff: -103)
+    - Slovenia, Republic of (Block: 63, Btw Rank: 131, PR Rank: 27, Diff: -104)
+    - Portugal (Block: 63, Btw Rank: 131, PR Rank: 26, Diff: -105)
+    - Belgium (Block: 185, Btw Rank: 131, PR Rank: 25, Diff: -106)
+    - Egypt, Arab Republic of (Block: 63, Btw Rank: 131, PR Rank: 24, Diff: -107)
+    - United Kingdom (Block: 185, Btw Rank: 131, PR Rank: 23, Diff: -108)
+    - Azerbaijan, Republic of (Block: 7, Btw Rank: 126, PR Rank: 17, Diff: -109)
+    - Dominican Republic (Block: 7, Btw Rank: 116, PR Rank: 6, Diff: -110)
+    - Argentina (Block: 63, Btw Rank: 131, PR Rank: 21, Diff: -110)
+    - France (Block: 185, Btw Rank: 131, PR Rank: 20, Diff: -111)
+    - Italy (Block: 185, Btw Rank: 131, PR Rank: 19, Diff: -112)
+    - Netherlands, The (Block: 185, Btw Rank: 131, PR Rank: 18, Diff: -113)
+    - United States (Block: 185, Btw Rank: 131, PR Rank: 14, Diff: -117)
+    - Germany (Block: 185, Btw Rank: 131, PR Rank: 13, Diff: -118)
+    - China, People's Republic of (Block: 185, Btw Rank: 131, PR Rank: 12, Diff: -119)
+    - Uzbekistan, Republic of (Block: 7, Btw Rank: 131, PR Rank: 9, Diff: -122)
+    - Georgia (Block: 7, Btw Rank: 131, PR Rank: 8, Diff: -123)
+    - Malaysia (Block: 63, Btw Rank: 131, PR Rank: 5, Diff: -126)
+    - Guatemala (Block: 7, Btw Rank: 131, PR Rank: 1, Diff: -130)
+
+[Inter-Block Metrics Summary by Model]
+
+Flat Exponential Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 49 -> Block 49: Total Weight 1549.42 (156 edges)
+    - Block 160 -> Block 49: Total Weight 1432.52 (169 edges)
+    - Block 49 -> Block 160: Total Weight 1337.18 (156 edges)
+    - Block 160 -> Block 160: Total Weight 1255.01 (144 edges)
+    - Block 12 -> Block 49: Total Weight 880.83 (130 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 21 -> Block 34: Total Weight 0.00 (1 edges)
+    - Block 205 -> Block 48: Total Weight 0.00 (4 edges)
+    - Block 142 -> Block 86: Total Weight 0.01 (5 edges)
+    - Block 86 -> Block 142: Total Weight 0.01 (8 edges)
+    - Block 199 -> Block 65: Total Weight 0.01 (4 edges)
+
+Flat Lognormal Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 175 -> Block 22: Total Weight 1110.04 (169 edges)
+    - Block 102 -> Block 22: Total Weight 1061.30 (130 edges)
+    - Block 22 -> Block 102: Total Weight 1054.25 (130 edges)
+    - Block 103 -> Block 103: Total Weight 994.73 (110 edges)
+    - Block 102 -> Block 102: Total Weight 963.44 (156 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 64 -> Block 135: Total Weight 0.06 (1 edges)
+    - Block 154 -> Block 8: Total Weight 0.11 (9 edges)
+    - Block 64 -> Block 154: Total Weight 0.17 (9 edges)
+    - Block 122 -> Block 53: Total Weight 0.23 (23 edges)
+    - Block 143 -> Block 154: Total Weight 0.26 (17 edges)
+
+Flat Pp Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 63 -> Block 185: Total Weight 12900.33 (3093 edges)
+    - Block 185 -> Block 185: Total Weight 12488.78 (1805 edges)
+    - Block 185 -> Block 63: Total Weight 10537.20 (2964 edges)
+    - Block 7 -> Block 185: Total Weight 8361.95 (3434 edges)
+    - Block 63 -> Block 63: Total Weight 7515.84 (4064 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 7 -> Block 7: Total Weight 1108.73 (1465 edges)
+    - Block 63 -> Block 7: Total Weight 2277.98 (2711 edges)
+    - Block 7 -> Block 63: Total Weight 3446.08 (3351 edges)
+    - Block 185 -> Block 7: Total Weight 4622.63 (2807 edges)
+    - Block 63 -> Block 63: Total Weight 7515.84 (4064 edges)
+
+Nested Exponential L0 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 43 -> Block 43: Total Weight 6376.69 (729 edges)
+    - Block 37 -> Block 43: Total Weight 4012.43 (687 edges)
+    - Block 43 -> Block 37: Total Weight 3639.91 (723 edges)
+    - Block 43 -> Block 204: Total Weight 3482.14 (531 edges)
+    - Block 204 -> Block 43: Total Weight 3466.76 (510 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 119 -> Block 145: Total Weight 0.46 (59 edges)
+    - Block 145 -> Block 159: Total Weight 0.53 (17 edges)
+    - Block 159 -> Block 145: Total Weight 0.73 (28 edges)
+    - Block 159 -> Block 119: Total Weight 0.74 (22 edges)
+    - Block 145 -> Block 119: Total Weight 0.85 (16 edges)
+
+Nested Exponential L1 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 7 -> Block 7: Total Weight 7968.72 (2635 edges)
+    - Block 6 -> Block 7: Total Weight 7423.75 (2800 edges)
+    - Block 7 -> Block 6: Total Weight 6471.74 (2626 edges)
+    - Block 6 -> Block 6: Total Weight 5524.70 (2587 edges)
+    - Block 4 -> Block 7: Total Weight 4774.23 (1803 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 5 -> Block 5: Total Weight 1229.74 (466 edges)
+    - Block 5 -> Block 4: Total Weight 1662.98 (733 edges)
+    - Block 4 -> Block 5: Total Weight 1940.42 (824 edges)
+    - Block 4 -> Block 4: Total Weight 2450.51 (1203 edges)
+    - Block 5 -> Block 6: Total Weight 2478.65 (1051 edges)
+
+Nested Exponential L2 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L3 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L4 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L5 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L6 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L7 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Exponential L8 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L0 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 190 -> Block 190: Total Weight 1476.60 (169 edges)
+    - Block 190 -> Block 15: Total Weight 1207.41 (140 edges)
+    - Block 161 -> Block 190: Total Weight 1163.66 (225 edges)
+    - Block 161 -> Block 15: Total Weight 1152.72 (179 edges)
+    - Block 15 -> Block 190: Total Weight 1150.97 (130 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 123 -> Block 150: Total Weight 1.07 (29 edges)
+    - Block 150 -> Block 123: Total Weight 1.23 (31 edges)
+    - Block 150 -> Block 148: Total Weight 1.94 (31 edges)
+    - Block 68 -> Block 150: Total Weight 2.67 (39 edges)
+    - Block 161 -> Block 150: Total Weight 4.95 (66 edges)
+
+Nested Lognormal L1 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 10 -> Block 10: Total Weight 9389.68 (3861 edges)
+    - Block 10 -> Block 0: Total Weight 7739.92 (2962 edges)
+    - Block 0 -> Block 10: Total Weight 7340.46 (2902 edges)
+    - Block 0 -> Block 0: Total Weight 5916.91 (2164 edges)
+    - Block 10 -> Block 9: Total Weight 4863.72 (1956 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 5 -> Block 5: Total Weight 714.35 (352 edges)
+    - Block 9 -> Block 5: Total Weight 1385.67 (625 edges)
+    - Block 5 -> Block 9: Total Weight 1395.66 (606 edges)
+    - Block 0 -> Block 5: Total Weight 2158.39 (923 edges)
+    - Block 5 -> Block 0: Total Weight 2215.87 (936 edges)
+
+Nested Lognormal L2 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L3 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L4 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L5 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L6 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L7 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+Nested Lognormal L8 Inter-Block Trade:
+  Top Block Pairs by Total Export Value:
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+  Bottom Block Pairs by Total Export Value (non-zero):
+    - Block 0 -> Block 0: Total Weight 63259.51 (25694 edges)
+
+================================================
+--- End of Report ---
